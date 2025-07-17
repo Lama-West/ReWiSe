@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+tqdm
+pandas
+requests
+bitsandbytes
+vllm
