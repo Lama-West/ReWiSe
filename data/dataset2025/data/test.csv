@@ -1,0 +1,479 @@
+SubjectEntity,SubjectEntityID,ObjectEntities,ObjectEntitiesID,Relation
+Niutao,Q475219,[],[],hasArea
+Lake Lucerne,Q14381,[],[],hasArea
+Lake Bangweulu,Q673169,[],[],hasArea
+Tinian,Q325652,[],[],hasArea
+Samosir Island,Q1369204,[],[],hasArea
+Malawi,Q1020,[],[],hasArea
+Bawean Island,Q812044,[],[],hasArea
+Niger,Q1032,[],[],hasArea
+Windermere,Q390370,[],[],hasArea
+São Tomé Island,Q233124,[],[],hasArea
+Fair Isle,Q762752,[],[],hasArea
+North Island,Q118863,[],[],hasArea
+Lake Tengiz,Q931708,[],[],hasArea
+Ivory Coast,Q1008,[],[],hasArea
+Bolshevik Island,Q650720,[],[],hasArea
+Djerba,Q188938,[],[],hasArea
+Pohnpei,Q319836,[],[],hasArea
+Bali Island,Q4648,[],[],hasArea
+Neuwerk,Q1622,[],[],hasArea
+Lake Balaton,Q6383,[],[],hasArea
+Penang Island,Q1150673,[],[],hasArea
+Uzbekistan,Q265,[],[],hasArea
+Stóra Dímun,Q212040,[],[],hasArea
+Vilsandi,Q1330853,[],[],hasArea
+Ko Chang,Q941265,[],[],hasArea
+Malden Island,Q532590,[],[],hasArea
+Lake Rakshastal,Q628327,[],[],hasArea
+Hispaniola,Q25277,[],[],hasArea
+Wrangel Island,Q106594,[],[],hasArea
+Hiva-Oa,Q937908,[],[],hasArea
+Cameroon,Q1009,[],[],hasArea
+Lake of the Woods,Q845876,[],[],hasArea
+Lake Alaotra,Q575679,[],[],hasArea
+Euboea,Q173096,[],[],hasArea
+Taiwan Island,Q22502,[],[],hasArea
+Lake Champlain,Q68467,[],[],hasArea
+New Britain,Q59771,[],[],hasArea
+Turkmenistan,Q874,[],[],hasArea
+Cabrera,Q52650,[],[],hasArea
+Prince Charles Island,Q837267,[],[],hasArea
+Banaba Island,Q271901,[],[],hasArea
+Aruba,Q21203,[],[],hasArea
+Rodrigues,Q208668,[],[],hasArea
+Kalsoy,Q212043,[],[],hasArea
+Funen,Q26503,[],[],hasArea
+Mälaren,Q184492,[],[],hasArea
+Vanuatu,Q686,[],[],hasArea
+Yeonpyeong,Q273890,[],[],hasArea
+Senegal,Q1041,[],[],hasArea
+East Rennell,Q852433,[],[],hasArea
+Vágar,Q207675,[],[],hasArea
+North Sentinel Island,Q1260331,[],[],hasArea
+Bhutan,Q917,[],[],hasArea
+Boa Vista,Q110440,[],[],hasArea
+October Revolution Island,Q217372,[],[],hasArea
+Malaita,Q641568,[],[],hasArea
+Iona,Q610,[],[],hasArea
+Minamitorishima,Q1047492,[],[],hasArea
+Borneo,Q36117,[],[],hasArea
+Yuzhny Island,Q212806,[],[],hasArea
+Island of Mozambique,Q331099,[],[],hasArea
+Tyrifjorden,Q696445,[],[],hasArea
+Bangka Island,Q188428,[],[],hasArea
+Lake Huron,Q1383,[],[],hasArea
+Capraia,Q3593349,[],[],hasArea
+Agathonisi,Q391543,[],[],hasArea
+Rathlin Island,Q1136111,[],[],hasArea
+Vietnam,Q881,[],[],hasArea
+Kastellorizo,Q212096,[],[],hasArea
+Tortuga,Q208345,[],[],hasArea
+Marie-Galante,Q1334492,[],[],hasArea
+Sint Eustatius,Q26180,[],[],hasArea
+Lemnos,Q192483,[],[],hasArea
+South Africa,Q258,[],[],hasArea
+Venezuela,Q717,[],[],hasArea
+Samos,Q156882,[],[],hasArea
+Ireland,Q27,[],[],hasArea
+Jan Mayen,Q14056,[],[],hasArea
+Mali,Q912,[],[],hasArea
+Kiritimati,Q193331,[],[],hasArea
+Lake Superior,Q1066,[],[],hasArea
+Libya,Q1016,[],[],hasArea
+Kythnos,Q739779,[],[],hasArea
+Näsijärvi,Q824371,[],[],hasArea
+Kavaratti,Q271287,[],[],hasArea
+Henderson Island,Q379759,[],[],hasArea
+Magerøya,Q829500,[],[],hasArea
+Gorgona,Q19347,[],[],hasArea
+Salamis Island,Q202422,[],[],hasArea
+Kosrae,Q459848,[],[],hasArea
+Kahoolawe,Q224086,[],[],hasArea
+Lake Ohrid,Q156258,[],[],hasArea
+ʻEua,Q423528,[],[],hasArea
+Ibiza,Q52631,[],[],hasArea
+Brava,Q492528,[],[],hasArea
+Lake Orta,Q63141,[],[],hasArea
+Nevis,Q207794,[],[],hasArea
+Tanegashima,Q696228,[],[],hasArea
+Lake Edward,Q125211,[],[],hasArea
+Malpelo Island,Q750683,[],[],hasArea
+Pitt Stadium in Pennsylvania,Q100200,[],[],hasCapacity
+Reese Stadium in Connecticut,Q100201,[],[],hasCapacity
+John F. Kennedy Stadium in Philadelphia,Q100202,[],[],hasCapacity
+Estadio Los Manantiales in Málaga Province,Q100203,[],[],hasCapacity
+Q9255440 in Pernambuco,Q100204,[],[],hasCapacity
+Buyant Ukhaa Sport Palace in Ulaanbaatar,Q100205,[],[],hasCapacity
+Stade Mamadou Konaté in Bamako,Q100206,[],[],hasCapacity
+Baenão in Belém,Q100207,[],[],hasCapacity
+Al-Hamadaniah Stadium in Aleppo,Q100208,[],[],hasCapacity
+Henry Fok Stadium in Guangzhou,Q100209,[],[],hasCapacity
+Sports Backers Stadium in Virginia,Q100210,[],[],hasCapacity
+Wuhan Sports Center in Wuhan,Q100211,[],[],hasCapacity
+Estadio Juan Carlos Durán in Santa Cruz de la Sierra,Q100212,[],[],hasCapacity
+Don and Nona Williams Stadium in Wisconsin,Q100213,[],[],hasCapacity
+Roebuck Stadium in North Carolina,Q100214,[],[],hasCapacity
+Spartakovets Stadium in Moscow,Q100215,[],[],hasCapacity
+Estadio Alejandro Ponce Noboa in Guayaquil,Q100216,[],[],hasCapacity
+Lad Krabang 54 Stadium in Samut Prakan,Q100217,[],[],hasCapacity
+Kyiv velotrack in Kyiv,Q100218,[],[],hasCapacity
+Güngören M.Yahya Baş Stadium in Istanbul,Q100219,[],[],hasCapacity
+Stade Sidi Bernoussi in Casablanca,Q100220,[],[],hasCapacity
+McMahon Stadium in Calgary,Q100221,[],[],hasCapacity
+Bafra Stadium in Samsun,Q100222,[],[],hasCapacity
+Alvear y Tagle Stadium in Buenos Aires,Q100223,[],[],hasCapacity
+Obafemi Awolowo Stadium in Ibadan,Q100224,[],[],hasCapacity
+New Plaza Stadium in Foshan,Q100225,[],[],hasCapacity
+Shahid Shiroudi Stadium in Tehran,Q100226,[],[],hasCapacity
+Huadu Stadium in Guangdong,Q100227,[],[],hasCapacity
+Q3496088 in Abidjan,Q100228,[],[],hasCapacity
+Harbin Sports City Center Stadium in Harbin,Q100229,[],[],hasCapacity
+Shamsul Huda Stadium in Jashore District,Q100230,[],[],hasCapacity
+Mohammed Bin Zayed Stadium in Abu Dhabi,Q100231,[],[],hasCapacity
+Xinhua Road Sports Center in Hubei,Q100232,[],[],hasCapacity
+Al-Ettifaq Club Stadium in Eastern Province,Q100233,[],[],hasCapacity
+PAT Stadium in Bangkok,Q100234,[],[],hasCapacity
+Comerica Park in Michigan,Q100235,[],[],hasCapacity
+Carl Wooten Field in Oklahoma,Q100236,[],[],hasCapacity
+Akademik Stadium in Sofia,Q100237,[],[],hasCapacity
+Tianjin Olympic Center Stadium in Nankai District,Q100238,[],[],hasCapacity
+Dornblaser Field II in Montana,Q100239,[],[],hasCapacity
+Heri Sudrajat Stadium in Depok,Q100240,[],[],hasCapacity
+Reinhart Field in Bronx County,Q100241,[],[],hasCapacity
+Suwon World Cup Stadium in Suwon,Q100242,[],[],hasCapacity
+Tarpeda Stadium in Minsk,Q100243,[],[],hasCapacity
+Titan Stadium in Wisconsin,Q100244,[],[],hasCapacity
+Goyang Stadium in Goyang,Q100245,[],[],hasCapacity
+Arthur Ashe Stadium in Queens,Q100246,[],[],hasCapacity
+Joe Albi Stadium in Washington,Q100247,[],[],hasCapacity
+Stade 1er Novembre 1954 in Algiers,Q100248,[],[],hasCapacity
+Punjab Agricultural University Stadium in Ludhiana,Q100249,[],[],hasCapacity
+Mission Stadium in San Antonio,Q100250,[],[],hasCapacity
+Kishoreganj Football Stadium in Kishoreganj District,Q100251,[],[],hasCapacity
+Ghadir Stadium in Ahvaz,Q100252,[],[],hasCapacity
+Roy Rike Field in Ohio,Q100253,[],[],hasCapacity
+MNP Park in Ottawa,Q100254,[],[],hasCapacity
+Lebak Bulus Stadium in Jakarta,Q100255,[],[],hasCapacity
+Bergen Ballpark in New Jersey,Q100256,[],[],hasCapacity
+Moacyrzão in Rio de Janeiro,Q100257,[],[],hasCapacity
+Paul Brown Tiger Stadium in Ohio,Q100258,[],[],hasCapacity
+Biemesderfer Stadium in Pennsylvania,Q100259,[],[],hasCapacity
+Enyimba International Stadium in Aba,Q100260,[],[],hasCapacity
+Hughes Stadium in Maryland,Q100261,[],[],hasCapacity
+Clarke Stadium in Alberta,Q100262,[],[],hasCapacity
+Jayne Stadium in Kentucky,Q100263,[],[],hasCapacity
+Adair–Austin Stadium in Kansas,Q100264,[],[],hasCapacity
+Fuling Stadium in Chongqing,Q100265,[],[],hasCapacity
+Triangle Park in Ohio,Q100266,[],[],hasCapacity
+Tianhe Stadium in Tianhe District,Q100267,[],[],hasCapacity
+Leonidoff Field in New York,Q100268,[],[],hasCapacity
+Plaza de toros Monumental de Maracaibo in Municipio Maracaibo,Q100269,[],[],hasCapacity
+Charger Stadium in Texas,Q100270,[],[],hasCapacity
+East Pyongyang Stadium in Pyongyang,Q100271,[],[],hasCapacity
+Antiguo canódromo de Carabanchel in Madrid,Q100272,[],[],hasCapacity
+Samara Arena in Samara,Q100273,[],[],hasCapacity
+Ross–Ade Stadium in Indiana,Q100274,[],[],hasCapacity
+Banadir Stadium in Mogadishu,Q100275,[],[],hasCapacity
+M. A. Aziz Stadium in Chittagong,Q100276,[],[],hasCapacity
+Peden Stadium in Ohio,Q100277,[],[],hasCapacity
+Sheikh Zayed Cricket Stadium in Abu Dhabi,Q100278,[],[],hasCapacity
+Waldo Stadium in Michigan,Q100279,[],[],hasCapacity
+Saluki Stadium in Illinois,Q100280,[],[],hasCapacity
+Stade Pere Jego in Casablanca,Q100281,[],[],hasCapacity
+Morrone Stadium in Connecticut,Q100282,[],[],hasCapacity
+Barombong Stadium in Makassar,Q100283,[],[],hasCapacity
+Q5847811 in Lima,Q100284,[],[],hasCapacity
+Yiannis Pathiakakis Stadium in Attica Region,Q100285,[],[],hasCapacity
+Q9255561 in Pernambuco,Q100286,[],[],hasCapacity
+Chalerm Prakiat Klong 6 Stadium in Pathum Thani,Q100287,[],[],hasCapacity
+Estadio Edgar Peña Gutierrez in Santa Cruz de la Sierra,Q100288,[],[],hasCapacity
+Cougars Den in Virginia,Q100289,[],[],hasCapacity
+Al-Merrikh Stadium in Omdurman,Q100290,[],[],hasCapacity
+Smisor Stadium in Kansas,Q100291,[],[],hasCapacity
+Estadio José Pérez Colmenares in Maracay,Q100292,[],[],hasCapacity
+Dongdaemun Stadium in Seoul,Q100293,[],[],hasCapacity
+Amman International Stadium in Amman,Q100294,[],[],hasCapacity
+Perkins Stadium in Wisconsin,Q100295,[],[],hasCapacity
+Q3495723 in Rio de Janeiro,Q100296,[],[],hasCapacity
+Campanelli Stadium in Massachusetts,Q100297,[],[],hasCapacity
+Sunan Stadium in Pyongyang,Q100298,[],[],hasCapacity
+Iran Khodro Stadium in Karaj,Q100299,[],[],hasCapacity
+Max Planck Medal,Q317038,[],[],awardWonBy
+Best Female Tennis Player ESPY Award,Q16275104,[],[],awardWonBy
+Franklin Medal,Q3141777,[],[],awardWonBy
+BBC World Sport Star of the Year,Q3494048,[],[],awardWonBy
+Pulitzer Prize for Biography,Q285117,[],[],awardWonBy
+Nobel Prize in Literature,Q37922,[],[],awardWonBy
+Sydney Peace Prize,Q1975046,[],[],awardWonBy
+Aga Khan Award for Architecture,Q389808,[],[],awardWonBy
+Mark Twain Prize for American Humor,Q1899850,[],[],awardWonBy
+iF product design award,Q5970925,[],[],awardWonBy
+TORM,Q694872,[],[],companyTradesAtStockExchange
+Allgemeine Gold- und Silberscheideanstalt,Q1736581,[],[],companyTradesAtStockExchange
+Bosch Engineering,Q894367,[],[],companyTradesAtStockExchange
+Entertainment One,Q1344736,[],[],companyTradesAtStockExchange
+WORLD FLEX PUBLIC COMPANY LIMITED,Q123752694,[],[],companyTradesAtStockExchange
+Tucows,Q2087612,[],[],companyTradesAtStockExchange
+Shaw Communications,Q1516849,[],[],companyTradesAtStockExchange
+Herbert Kannegiesser GmbH,Q990576,[],[],companyTradesAtStockExchange
+Bridgestone,Q179433,[],[],companyTradesAtStockExchange
+Chinlink International Holdings Limited,Q11089624,[],[],companyTradesAtStockExchange
+Groupon,Q852787,[],[],companyTradesAtStockExchange
+Color Line,Q702833,[],[],companyTradesAtStockExchange
+ITE Group,Q1654989,[],[],companyTradesAtStockExchange
+Isar Aerospace,Q104779603,[],[],companyTradesAtStockExchange
+SSE Composite Index,Q174453,[],[],companyTradesAtStockExchange
+Lürssen,Q657096,[],[],companyTradesAtStockExchange
+Jutal Offshore Oil Services Limited,Q16926190,[],[],companyTradesAtStockExchange
+"Bourns, Inc.",Q4950312,[],[],companyTradesAtStockExchange
+Simon Property Group,Q2287759,[],[],companyTradesAtStockExchange
+Cummins,Q173476,[],[],companyTradesAtStockExchange
+Patagonia Bank,Q2882078,[],[],companyTradesAtStockExchange
+Community Health Systems,Q5154770,[],[],companyTradesAtStockExchange
+Centracom,Q5060184,[],[],companyTradesAtStockExchange
+Makita,Q691508,[],[],companyTradesAtStockExchange
+Tekpro Steel,Q67810915,[],[],companyTradesAtStockExchange
+CBS Corporation,Q950380,[],[],companyTradesAtStockExchange
+Caltagirone,Q3651034,[],[],companyTradesAtStockExchange
+"AXA RON fund 2, otevřeny podilovy fond AXA investiční společnosti",Q67812859,[],[],companyTradesAtStockExchange
+Syneron Medical,Q7662405,[],[],companyTradesAtStockExchange
+Land Warfare Resources Corporation,Q6484015,[],[],companyTradesAtStockExchange
+United Microelectronics Corporation,Q143616,[],[],companyTradesAtStockExchange
+o.tel.o,Q1268844,[],[],companyTradesAtStockExchange
+Clarisonic,Q5127056,[],[],companyTradesAtStockExchange
+Hydro One,Q3143709,[],[],companyTradesAtStockExchange
+Santander Group,Q806215,[],[],companyTradesAtStockExchange
+Zühlke Technology Group,Q15855928,[],[],companyTradesAtStockExchange
+Planet Internet,Q2006066,[],[],companyTradesAtStockExchange
+Bloomsbury Publishing,Q568642,[],[],companyTradesAtStockExchange
+Harley-Davidson,Q192814,[],[],companyTradesAtStockExchange
+Canadian National Railway,Q624798,[],[],companyTradesAtStockExchange
+Ostindustrie,Q2035649,[],[],companyTradesAtStockExchange
+Foxtel,Q1976628,[],[],companyTradesAtStockExchange
+Suzano Papel e Celulose,Q1030695,[],[],companyTradesAtStockExchange
+PQube,Q4047302,[],[],companyTradesAtStockExchange
+ASKLEPION-Trade,Q54967660,[],[],companyTradesAtStockExchange
+La Pavoni,Q2769989,[],[],companyTradesAtStockExchange
+Enel,Q651222,[],[],companyTradesAtStockExchange
+Keisei Electric Railway,Q83538,[],[],companyTradesAtStockExchange
+Versace,Q696376,[],[],companyTradesAtStockExchange
+Monongahela River Consolidated Coal and Coke Company,Q6901800,[],[],companyTradesAtStockExchange
+Polaris Finance SICAV p.l.c. - Polaris Omega,Q102337005,[],[],companyTradesAtStockExchange
+Uni-Bio Science Group Limited,Q15935079,[],[],companyTradesAtStockExchange
+ASM International,Q2478569,[],[],companyTradesAtStockExchange
+FlexIT,Q67809277,[],[],companyTradesAtStockExchange
+SAIC Motor,Q910401,[],[],companyTradesAtStockExchange
+Telrad Networks Ltd,Q4050811,[],[],companyTradesAtStockExchange
+Fenryll,Q3068403,[],[],companyTradesAtStockExchange
+Quest Diagnostics,Q7271456,[],[],companyTradesAtStockExchange
+CPFL Energia,Q1121216,[],[],companyTradesAtStockExchange
+Focus Media Holding,Q210780,[],[],companyTradesAtStockExchange
+Alfred Sternjakob,Q1565822,[],[],companyTradesAtStockExchange
+AT Compus,Q102263324,[],[],companyTradesAtStockExchange
+Bank of Sicily,Q3633842,[],[],companyTradesAtStockExchange
+Compañía Española de Minas del Rif,Q1121380,[],[],companyTradesAtStockExchange
+TEDDIES,Q52860048,[],[],companyTradesAtStockExchange
+HD Korea Shipbuilding & Offshore Engineering,Q65312870,[],[],companyTradesAtStockExchange
+Les Films Jean-Pierre Lefebvre,Q65092113,[],[],companyTradesAtStockExchange
+Encompass Health,Q5690400,[],[],companyTradesAtStockExchange
+TD Ameritrade,Q7669886,[],[],companyTradesAtStockExchange
+Orlen Unipetrol,Q1593113,[],[],companyTradesAtStockExchange
+Silicon Laboratories,Q2286044,[],[],companyTradesAtStockExchange
+"A + Z Rišňovský, Halász",Q77876440,[],[],companyTradesAtStockExchange
+Silicon Image,Q2003999,[],[],companyTradesAtStockExchange
+Fairchild Semiconductor,Q1096013,[],[],companyTradesAtStockExchange
+United Aircraft Corporation,Q1136226,[],[],companyTradesAtStockExchange
+Vedanta Limited,Q3958138,[],[],companyTradesAtStockExchange
+Aersud elicotteri,Q3606111,[],[],companyTradesAtStockExchange
+AAC Technologies Holdings Inc,Q16926211,[],[],companyTradesAtStockExchange
+Elkar,Q3051322,[],[],companyTradesAtStockExchange
+North Atlantic Refining,Q7053995,[],[],companyTradesAtStockExchange
+Future plc,Q685018,[],[],companyTradesAtStockExchange
+Linde Material Handling,Q1316733,[],[],companyTradesAtStockExchange
+Gree Electric,Q1544535,[],[],companyTradesAtStockExchange
+Romaero,Q387165,[],[],companyTradesAtStockExchange
+Ōita Bank,Q10933745,[],[],companyTradesAtStockExchange
+Regeneron Pharmaceuticals,Q7308054,[],[],companyTradesAtStockExchange
+Rosneft,Q1141123,[],[],companyTradesAtStockExchange
+RusHydro,Q2035424,[],[],companyTradesAtStockExchange
+Tata Motors Ltd,Q188514,[],[],companyTradesAtStockExchange
+Khartsyzsk pipe plant,Q4496157,[],[],companyTradesAtStockExchange
+Spotify Technology,Q60269744,[],[],companyTradesAtStockExchange
+GMR Group,Q5513791,[],[],companyTradesAtStockExchange
+El Alami Group,Q3117396,[],[],companyTradesAtStockExchange
+Verband der Anbieter von Telekommunikations- und Mehrwertdiensten,Q1685617,[],[],companyTradesAtStockExchange
+Coca-Cola Amatil,Q2981189,[],[],companyTradesAtStockExchange
+Okamoto Glass,Q11473183,[],[],companyTradesAtStockExchange
+BioNTech,Q30256699,[],[],companyTradesAtStockExchange
+Vizas,Q13030201,[],[],companyTradesAtStockExchange
+LG Display,Q483006,[],[],companyTradesAtStockExchange
+STP plast,Q54943259,[],[],companyTradesAtStockExchange
+Somalia,Q1045,[],[],countryLandBordersCountry
+Montenegro,Q236,[],[],countryLandBordersCountry
+Mozambique,Q1029,[],[],countryLandBordersCountry
+Bulgaria,Q219,[],[],countryLandBordersCountry
+Burundi,Q967,[],[],countryLandBordersCountry
+Madagascar,Q1019,[],[],countryLandBordersCountry
+Hungary,Q28,[],[],countryLandBordersCountry
+Italy,Q38,[],[],countryLandBordersCountry
+Lithuania,Q37,[],[],countryLandBordersCountry
+Iceland,Q189,[],[],countryLandBordersCountry
+Benin,Q962,[],[],countryLandBordersCountry
+North Macedonia,Q221,[],[],countryLandBordersCountry
+United Kingdom,Q145,[],[],countryLandBordersCountry
+India,Q668,[],[],countryLandBordersCountry
+Bahrain,Q398,[],[],countryLandBordersCountry
+France,Q142,[],[],countryLandBordersCountry
+Morocco,Q1028,[],[],countryLandBordersCountry
+Cameroon,Q1009,[],[],countryLandBordersCountry
+Hong Kong,Q8646,[],[],countryLandBordersCountry
+Chad,Q657,[],[],countryLandBordersCountry
+Papua New Guinea,Q691,[],[],countryLandBordersCountry
+Libya,Q1016,[],[],countryLandBordersCountry
+South Korea,Q884,[],[],countryLandBordersCountry
+Switzerland,Q39,[],[],countryLandBordersCountry
+Rwanda,Q1037,[],[],countryLandBordersCountry
+Sudan,Q1049,[],[],countryLandBordersCountry
+Côte d'Ivoire,Q1008,[],[],countryLandBordersCountry
+Sri Lanka,Q854,[],[],countryLandBordersCountry
+United States,Q30,[],[],countryLandBordersCountry
+Austria,Q40,[],[],countryLandBordersCountry
+Senegal,Q1041,[],[],countryLandBordersCountry
+South Sudan,Q958,[],[],countryLandBordersCountry
+Brazil,Q155,[],[],countryLandBordersCountry
+Kuwait,Q817,[],[],countryLandBordersCountry
+Japan,Q17,[],[],countryLandBordersCountry
+Jamaica,Q766,[],[],countryLandBordersCountry
+Guatemala,Q774,[],[],countryLandBordersCountry
+Democratic Republic of the Congo,Q974,[],[],countryLandBordersCountry
+People's Republic of China,Q148,[],[],countryLandBordersCountry
+Algeria,Q262,[],[],countryLandBordersCountry
+Honduras,Q783,[],[],countryLandBordersCountry
+Saint Kitts and Nevis,Q763,[],[],countryLandBordersCountry
+Laos,Q819,[],[],countryLandBordersCountry
+El Salvador,Q792,[],[],countryLandBordersCountry
+Czech Republic,Q213,[],[],countryLandBordersCountry
+Palau,Q695,[],[],countryLandBordersCountry
+Kyrgyzstan,Q813,[],[],countryLandBordersCountry
+Mali,Q912,[],[],countryLandBordersCountry
+Slovakia,Q214,[],[],countryLandBordersCountry
+Federated States of Micronesia,Q702,[],[],countryLandBordersCountry
+Slovenia,Q215,[],[],countryLandBordersCountry
+Trinidad and Tobago,Q754,[],[],countryLandBordersCountry
+Nauru,Q697,[],[],countryLandBordersCountry
+South Africa,Q258,[],[],countryLandBordersCountry
+San Marino,Q238,[],[],countryLandBordersCountry
+Thailand,Q869,[],[],countryLandBordersCountry
+United Kingdom,Q145,[],[],countryLandBordersCountry
+Yemen,Q805,[],[],countryLandBordersCountry
+Portugal,Q45,[],[],countryLandBordersCountry
+Kosovo,Q1246,[],[],countryLandBordersCountry
+Iran,Q794,[],[],countryLandBordersCountry
+Peru,Q419,[],[],countryLandBordersCountry
+Ghana,Q117,[],[],countryLandBordersCountry
+Sweden,Q34,[],[],countryLandBordersCountry
+Egypt,Q79,[],[],countryLandBordersCountry
+Zambia,Q953,[],[],countryLandBordersCountry
+Azerbaijan,Q227,[],[],countryLandBordersCountry
+Angola,Q916,[],[],countryLandBordersCountry
+Ad Gerritsen,Q19786016,[],[],personHasCityOfDeath
+Mircea Costache II,Q18544208,[],[],personHasCityOfDeath
+Kamal Əhmədov,Q55107221,[],[],personHasCityOfDeath
+Maciej Moszew,Q11765529,[],[],personHasCityOfDeath
+Edward K. Reedy,Q5343878,[],[],personHasCityOfDeath
+Viktor Savinykh,Q431006,[],[],personHasCityOfDeath
+Jan Sandorski,Q55390755,[],[],personHasCityOfDeath
+Hans-Otto Wilhelm,Q1484328,[],[],personHasCityOfDeath
+Lajos Cs. Németh,Q870135,[],[],personHasCityOfDeath
+Gerard J. Foschini,Q5550028,[],[],personHasCityOfDeath
+Ochir Kikeyev,Q18043814,[],[],personHasCityOfDeath
+Virgil Ogășanu,Q12743547,[],[],personHasCityOfDeath
+Margrethe II of Denmark,Q102139,[],[],personHasCityOfDeath
+Bill Koch,Q4909771,[],[],personHasCityOfDeath
+Luis Racionero,Q4894162,[],[],personHasCityOfDeath
+Igor Romishevsky,Q1369398,[],[],personHasCityOfDeath
+Margret Middell,Q1420531,[],[],personHasCityOfDeath
+Johnnie Keyes,Q6267033,[],[],personHasCityOfDeath
+Giorgio Moroder,Q312674,[],[],personHasCityOfDeath
+Francesc Vendrell i Vendrell,Q8962224,[],[],personHasCityOfDeath
+Gilles Villemure,Q364064,[],[],personHasCityOfDeath
+Anatoly Pavlenko,Q4341343,[],[],personHasCityOfDeath
+Yury Yershov,Q381315,[],[],personHasCityOfDeath
+Denis Law,Q233565,[],[],personHasCityOfDeath
+James L. Brooks,Q95125,[],[],personHasCityOfDeath
+Alevtina Fedulova,Q4482265,[],[],personHasCityOfDeath
+Giorgi Shkhvatsabaya,Q12863246,[],[],personHasCityOfDeath
+Robby Müller,Q384784,[],[],personHasCityOfDeath
+Claudie Hunzinger,Q2978445,[],[],personHasCityOfDeath
+Imre Kozma,Q1120625,[],[],personHasCityOfDeath
+Lothar de Maizière,Q57412,[],[],personHasCityOfDeath
+Bohumil Doležal,Q4938231,[],[],personHasCityOfDeath
+Bruce Chatwin,Q348916,[],[],personHasCityOfDeath
+George A. Romero,Q51511,[],[],personHasCityOfDeath
+Jean-Paul Proust,Q354691,[],[],personHasCityOfDeath
+Gao Xingjian,Q18143,[],[],personHasCityOfDeath
+Tony Tan Keng Yam,Q38987,[],[],personHasCityOfDeath
+Sid Ganis,Q1389359,[],[],personHasCityOfDeath
+Vittorio Storaro,Q363413,[],[],personHasCityOfDeath
+Antonio Brack Egg,Q949184,[],[],personHasCityOfDeath
+Anatolii Bondarchuk,Q464211,[],[],personHasCityOfDeath
+Małgorzata Szpakowska,Q11772387,[],[],personHasCityOfDeath
+Mary Ellen Mark,Q449575,[],[],personHasCityOfDeath
+Krishnam Raju,Q6437529,[],[],personHasCityOfDeath
+Petru Lucinschi,Q355874,[],[],personHasCityOfDeath
+Yüksel Pazarkaya,Q125760,[],[],personHasCityOfDeath
+Veronica P. Kruglova,Q4241956,[],[],personHasCityOfDeath
+Anatolii Khunov,Q12168021,[],[],personHasCityOfDeath
+John Lewis,Q45380,[],[],personHasCityOfDeath
+Allen Lee,Q4731755,[],[],personHasCityOfDeath
+Antanas Šurna,Q16444044,[],[],personHasCityOfDeath
+Thelma Schoonmaker,Q166887,[],[],personHasCityOfDeath
+Oleg Konstantinovitsj Stoekalov,Q28381318,[],[],personHasCityOfDeath
+Alfred Znamierowski,Q4723678,[],[],personHasCityOfDeath
+Kip S. Thorne,Q323320,[],[],personHasCityOfDeath
+Petr Hájek,Q7178527,[],[],personHasCityOfDeath
+Herbie Hancock,Q105875,[],[],personHasCityOfDeath
+Brian David Josephson,Q181363,[],[],personHasCityOfDeath
+Friedel Rausch,Q533377,[],[],personHasCityOfDeath
+Helga Reidemeister,Q1602266,[],[],personHasCityOfDeath
+Jim Roberts,Q6197783,[],[],personHasCityOfDeath
+Alexei Fridman,Q2602204,[],[],personHasCityOfDeath
+Petru Gherghel,Q558372,[],[],personHasCityOfDeath
+Garth Fagan,Q1494755,[],[],personHasCityOfDeath
+John L. Borling,Q6243546,[],[],personHasCityOfDeath
+Dzintars Lācis,Q14935996,[],[],personHasCityOfDeath
+Mari Jose Urruzola,Q21450772,[],[],personHasCityOfDeath
+Muhammad Yunus,Q43969,[],[],personHasCityOfDeath
+Maeve Binchy,Q152690,[],[],personHasCityOfDeath
+Frank Chin,Q162511,[],[],personHasCityOfDeath
+Nancy Pelosi,Q170581,[],[],personHasCityOfDeath
+Vladimir Zhitlov,Q30140891,[],[],personHasCityOfDeath
+Katalin Sólyom,Q1315343,[],[],personHasCityOfDeath
+Claude Piard,Q2977956,[],[],personHasCityOfDeath
+Vladimir,Q4112992,[],[],personHasCityOfDeath
+Haing S. Ngor,Q312364,[],[],personHasCityOfDeath
+Helmut Denk,Q1603478,[],[],personHasCityOfDeath
+Don Mischer,Q3295455,[],[],personHasCityOfDeath
+Betty Elizalde,Q6396070,[],[],personHasCityOfDeath
+J. H. Binford Peay III,Q1274149,[],[],personHasCityOfDeath
+Peter Cartwright,Q63323215,[],[],personHasCityOfDeath
+Jean Ichbiah,Q92853,[],[],personHasCityOfDeath
+Murali Mohan,Q6937288,[],[],personHasCityOfDeath
+Mária Pozsonec,Q898265,[],[],personHasCityOfDeath
+Anja Silja,Q64417,[],[],personHasCityOfDeath
+William Owens,Q525405,[],[],personHasCityOfDeath
+Jacob Palis,Q966663,[],[],personHasCityOfDeath
+Michael Parks,Q525318,[],[],personHasCityOfDeath
+Angela Carter,Q234519,[],[],personHasCityOfDeath
+József Tóth,Q28723517,[],[],personHasCityOfDeath
+Ted Green,Q3517025,[],[],personHasCityOfDeath
+Gennady Merkulov,Q4290988,[],[],personHasCityOfDeath
+Bob Mackie,Q3435802,[],[],personHasCityOfDeath
+James E. Livingston,Q6133135,[],[],personHasCityOfDeath
+Gillian Shephard,Q333058,[],[],personHasCityOfDeath
+Anson Chan,Q50838,[],[],personHasCityOfDeath
+Uladzimir Basalyha,Q3918592,[],[],personHasCityOfDeath
+Robert Saladrigas,Q11289605,[],[],personHasCityOfDeath
+Janusz Kochanowski,Q2665951,[],[],personHasCityOfDeath
+Svetlana Svetlichnaya,Q1750617,[],[],personHasCityOfDeath

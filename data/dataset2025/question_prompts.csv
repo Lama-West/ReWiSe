@@ -1,0 +1,7 @@
+Relation,PromptTemplate
+hasArea,What is the area of {subject_entity} in square kilometers?
+hasCapacity,What is the total capacity of {subject_entity}?
+countryLandBordersCountry,Which countries share a land border with {subject_entity}?
+personHasCityOfDeath,In which city did {subject_entity} die?
+awardWonBy,Who won the {subject_entity}?
+companyTradesAtStockExchange,Where do shares of {subject_entity} trade?

@@ -1,0 +1,478 @@
+SubjectEntity,SubjectEntityID,ObjectEntities,ObjectEntitiesID,Relation
+Wellington Island,Q1048284,['5556'],['5556'],hasArea
+Mangareva,Q616662,['15.4'],['15.4'],hasArea
+Israel,Q801,['20770'],['20770'],hasArea
+Bylot Island,Q645180,['11067'],['11067'],hasArea
+Anafi,Q217253,['38.636'],['38.636'],hasArea
+Nantucket,Q49149,['47.8'],['47.8'],hasArea
+Ulleungdo,Q41172,['72.9'],['72.9'],hasArea
+Nigeria,Q1033,['923768'],['923768'],hasArea
+Symi,Q429430,['57.865'],['57.865'],hasArea
+Moraine Lake,Q1072342,['0.5'],['0.5'],hasArea
+Agistri,Q539983,['11.732'],['11.732'],hasArea
+Ko Pha-ngan,Q1069922,['125'],['125'],hasArea
+Great Bitter Lake,Q526440,['250'],['250'],hasArea
+Svínoy,Q216848,['27.4'],['27.4'],hasArea
+Zimbabwe,Q954,['390757'],['390757'],hasArea
+Molokaʻi,Q193253,['260'],['260'],hasArea
+Huahine,Q521020,['77.6'],['77.6'],hasArea
+Catanduanes,Q13778,['1492.16'],['1492.16'],hasArea
+Eritrea,Q986,['117600'],['117600'],hasArea
+Taveuni,Q1138545,['434'],['434'],hasArea
+Awaji Island,Q504373,['592'],['592'],hasArea
+Poland,Q36,['312683'],['312683'],hasArea
+Montserrat,Q13353,['102'],['102'],hasArea
+Lake Iseo,Q15648,['65.3'],['65.3'],hasArea
+Saint Vincent,Q379656,['345'],['345'],hasArea
+Mactan,Q685318,['65'],['65'],hasArea
+Lake Starnberg,Q131615,['56.36'],['56.36'],hasArea
+Egypt,Q79,['1010407.87'],['1010407.87'],hasArea
+Lake Baringo,Q790453,['168'],['168'],hasArea
+Amager,Q210396,['96.29'],['96.29'],hasArea
+Isle of Arran,Q211873,['432'],['432'],hasArea
+Chatham Island,Q1427436,['920'],['920'],hasArea
+Tanzania,Q924,['947303'],['947303'],hasArea
+Poveglia,Q1145492,['0.0751'],['0.0751'],hasArea
+Victoria Island,Q158129,['217291'],['217291'],hasArea
+Kythira,Q207239,['277.746'],['277.746'],hasArea
+New Ireland,Q215089,['7405'],['7405'],hasArea
+Vatican City,Q237,['0.49'],['0.49'],hasArea
+Elba,Q45328,['223'],['223'],hasArea
+Mallorca,Q8828,['3620'],['3620'],hasArea
+Robinson Crusoe Island,Q329422,['47.93'],['47.93'],hasArea
+Eleuthera,Q1141700,['518'],['518'],hasArea
+Java,Q3757,['128297'],['128297'],hasArea
+Saaremaa,Q951302,['2672'],['2672'],hasArea
+Ammersee,Q265336,['46.6'],['46.6'],hasArea
+Milos,Q203979,['150.6'],['150.6'],hasArea
+Groote Eylandt,Q678878,['2285'],['2285'],hasArea
+Kasos,Q533410,['69.46'],['69.46'],hasArea
+Namibia,Q1030,['825615'],['825615'],hasArea
+Korčula,Q13288,['279'],['279'],hasArea
+Zealand,Q25535,['7031.3'],['7031.3'],hasArea
+Lake Balkhash,Q134485,['18200'],['18200'],hasArea
+Corregidor,Q928075,['5.49'],['5.49'],hasArea
+Cat Island,Q1050154,['389'],['389'],hasArea
+Lake Michigan,Q1169,['57750'],['57750'],hasArea
+Navarino Island,Q1141736,['2473'],['2473'],hasArea
+Barentsøya,Q373190,['1288'],['1288'],hasArea
+Lake Victoria,Q5505,['68100'],['68100'],hasArea
+Buru Island,Q271030,['8473'],['8473'],hasArea
+Cornwallis Island,Q674504,['6995'],['6995'],hasArea
+Paravani Lake,Q120352,['37.5'],['37.5'],hasArea
+Heimaey,Q211182,['13.4'],['13.4'],hasArea
+Austria,Q40,['83878.99'],['83878.99'],hasArea
+Saint John,Q849441,['50.8'],['50.8'],hasArea
+Sint Maarten,Q26273,['34'],['34'],hasArea
+Ecuador,Q736,['257204.27'],['257204.27'],hasArea
+Yonaguni,Q220701,['28.91'],['28.91'],hasArea
+Finland,Q33,['338478.34'],['338478.34'],hasArea
+Angola,Q916,['1246700'],['1246700'],hasArea
+Ven,Q509682,['7.5'],['7.5'],hasArea
+Attu Island,Q758260,['896'],['896'],hasArea
+Andros,Q175741,['381.398'],['381.398'],hasArea
+Burundi,Q967,['27834'],['27834'],hasArea
+Aneityum,Q528884,['159.2'],['159.2'],hasArea
+Lake Manasarovar,Q233627,['395'],['395'],hasArea
+Streymoy,Q192540,['373.5'],['373.5'],hasArea
+Śniardwy,Q387256,['113.8'],['113.8'],hasArea
+Biševo,Q879332,['5.92'],['5.92'],hasArea
+Pangong Tso,Q1032254,['690'],['690'],hasArea
+Rote Island,Q686196,['1227'],['1227'],hasArea
+Bassas da India,Q220601,['0.2'],['0.2'],hasArea
+Ethiopia,Q115,['1104300'],['1104300'],hasArea
+Jordan,Q810,['89341'],['89341'],hasArea
+Tutuila,Q269205,['140.3'],['140.3'],hasArea
+Belitung Island,Q334771,['4478'],['4478'],hasArea
+Cuba,Q241,['109884'],['109884'],hasArea
+Taymyr,Q845868,['4560'],['4560'],hasArea
+Zakynthos,Q144880,['405.55'],['405.55'],hasArea
+Isle of Bute,Q1147435,['12217'],['12217'],hasArea
+Morocco,Q1028,['446550'],['446550'],hasArea
+Saint Kitts,Q204989,['168'],['168'],hasArea
+Hormuz Island,Q695265,['42'],['42'],hasArea
+São Jorge Island,Q743362,['233.5'],['233.5'],hasArea
+Isla de los Estados,Q492520,['501'],['501'],hasArea
+Kosovo,Q1246,['10909.02992'],['10909.02992'],hasArea
+Upolu,Q274569,['1125'],['1125'],hasArea
+Barren Island,Q248212,['8'],['8'],hasArea
+West Island,Q48675,['6.23'],['6.23'],hasArea
+Denmark,Q35,['42925.46'],['42925.46'],hasArea
+Switzerland,Q39,['41285'],['41285'],hasArea
+Sungui Sports Complex in Incheon,Q100000,['35000'],['35000'],hasCapacity
+John A. Farrell Stadium in Pennsylvania,Q100001,['7500'],['7500'],hasCapacity
+Estadio Revolución Ciudad de Guatemala in Guatemala City,Q100002,['5000'],['5000'],hasCapacity
+Ibn-e-Qasim Bagh Stadium in Multan,Q100003,['18000'],['18000'],hasCapacity
+Nisa-Çandybil Stadium in Ashgabat,Q100004,['1500'],['1500'],hasCapacity
+Al-Jalaa Stadium in Damascus,Q100005,['10000'],['10000'],hasCapacity
+Jack Spinks Stadium in Mississippi,Q100006,['22500'],['22500'],hasCapacity
+Zhongshan Sports Center Stadium in Guangdong,Q100007,['12000'],['12000'],hasCapacity
+Benteng Stadium in Tangerang,Q100008,['25000'],['25000'],hasCapacity
+Samuel Ogbemudia Stadium in Benin City,Q100009,['20000'],['20000'],hasCapacity
+DSC Hockey Stadium in Emirate of Dubai,Q100010,['5000'],['5000'],hasCapacity
+Estadio San Carlos de Apoquindo in Santiago,Q100011,['20000'],['20000'],hasCapacity
+A.J. Simeon Stadium in North Carolina,Q100012,['10000'],['10000'],hasCapacity
+Estadio Parque Capurro in Montevideo,Q100013,['10000'],['10000'],hasCapacity
+Concordia Stadium in Montreal,Q100014,['4000'],['4000'],hasCapacity
+Gaddafi Stadium in Lahore,Q100015,['60000'],['60000'],hasCapacity
+Al-Zawraa Stadium in Baghdad,Q100016,['20000'],['20000'],hasCapacity
+Martin Family Stadium in Virginia,Q100017,['1000'],['1000'],hasCapacity
+Baghdad FC Stadium in Baghdad,Q100018,['5000'],['5000'],hasCapacity
+Hamad bin Khalifa Stadium in Doha,Q100019,['20000'],['20000'],hasCapacity
+Maktoum Bin Rashid Al Maktoum Stadium in Emirate of Dubai,Q100020,['18000'],['18000'],hasCapacity
+Harlen C. Hunter Stadium in Missouri,Q100021,['7450'],['7450'],hasCapacity
+Alumni Memorial Stadium in North Carolina,Q100022,['6000'],['6000'],hasCapacity
+Hancock Stadium in Illinois,Q100023,['13391'],['13391'],hasCapacity
+McAndrew Stadium in Illinois,Q100024,['17000'],['17000'],hasCapacity
+American Legion Memorial Stadium in North Carolina,Q100025,['21000'],['21000'],hasCapacity
+Community Field in Iowa,Q100026,['3200'],['3200'],hasCapacity
+Cowboy Stadium in Louisiana,Q100027,['12226'],['12226'],hasCapacity
+Christy Mathewson–Memorial Stadium in Pennsylvania,Q100028,['13100'],['13100'],hasCapacity
+Estadio de Vallehermoso in Madrid,Q100029,['12000'],['12000'],hasCapacity
+Estádio Juscelino Kubitschek de Oliveira in Belo Horizonte,Q100030,['15000'],['15000'],hasCapacity
+"Luther ""Nick"" Jeralds Stadium in North Carolina",Q100031,['5520'],['5520'],hasCapacity
+Pioneer Stadium in California,Q100032,['5000'],['5000'],hasCapacity
+Haihe Educational Football Stadium in Tianjin,Q100033,['30000'],['30000'],hasCapacity
+Wilkerson-Sanders Memorial Stadium in Texas,Q100034,['8330'],['8330'],hasCapacity
+Railway Stadium in Lahore,Q100035,['3000'],['3000'],hasCapacity
+Castelão in Fortaleza,Q100036,['57876'],['57876'],hasCapacity
+Yusuf Ziya Öniş Stadium in Istanbul,Q100037,['10000'],['10000'],hasCapacity
+Astroturf Hockey Stadium in Ranchi,Q100038,['5000'],['5000'],hasCapacity
+Daegu Baseball Stadium in Daegu,Q100039,['10000'],['10000'],hasCapacity
+jetBlue Park at Fenway South in Florida,Q100040,['10823'],['10823'],hasCapacity
+Sharks Stadium in Port Harcourt,Q100041,['10000'],['10000'],hasCapacity
+Ferro Carril Oeste Stadium in Buenos Aires,Q100042,['24442'],['24442'],hasCapacity
+Estadio Iván Elías Moreno in Lima,Q100043,['12000'],['12000'],hasCapacity
+Shanghai Indoor Stadium in Shanghai,Q100044,['10000'],['10000'],hasCapacity
+Tajiat Olympic Stadium in Baghdad,Q100045,['60000'],['60000'],hasCapacity
+E. Claiborne Robins Stadium in Virginia,Q100046,['8700'],['8700'],hasCapacity
+Dazhou Xiwai Stadium in Dazhou,Q100047,['30000'],['30000'],hasCapacity
+Estadio Cementos Progreso in Guatemala City,Q100048,['14022'],['14022'],hasCapacity
+Osmanlı Stadyumu in Ankara,Q100049,['19626'],['19626'],hasCapacity
+Temple Stadium in Pennsylvania,Q100050,['20000'],['20000'],hasCapacity
+Gwangju Mudeung Stadium in Gwangju,Q100051,['24304'],['24304'],hasCapacity
+Bridgeforth Stadium and Zane Showker Field in Virginia,Q100052,['24877'],['24877'],hasCapacity
+Shaheed Bulu Stadium in Noakhali District,Q100053,['10000'],['10000'],hasCapacity
+New İzmir Stadium in İzmir,Q100054,['41540'],['41540'],hasCapacity
+Independence Stadium in Lusaka,Q100055,['30000'],['30000'],hasCapacity
+Thresher Stadium in Kansas,Q100056,['2500'],['2500'],hasCapacity
+PCMC Hockey Stadium in Pune,Q100057,['5000'],['5000'],hasCapacity
+Kobe Central Stadium in Kobe,Q100058,['13000'],['13000'],hasCapacity
+Century Lotus Stadium in Foshan,Q100059,['36686'],['36686'],hasCapacity
+Yomiuri Giants Stadium in Kawasaki,Q100060,['4000'],['4000'],hasCapacity
+Jiaxing Stadium in Jiaxing,Q100061,['35000'],['35000'],hasCapacity
+Spartan Municipal Stadium in Ohio,Q100062,['8500'],['8500'],hasCapacity
+Frank Eck Stadium in Indiana,Q100063,['2500'],['2500'],hasCapacity
+Arena Amazônia in Amazonas,Q100064,['42924'],['42924'],hasCapacity
+Mika Stadium in Yerevan,Q100065,['7000'],['7000'],hasCapacity
+Shaheed Salam Stadium in Feni District,Q100066,['5000'],['5000'],hasCapacity
+Paulson Stadium in Georgia,Q100067,['24300'],['24300'],hasCapacity
+Tofiq Ismayilov Stadium in Baku,Q100068,['15000'],['15000'],hasCapacity
+Estádio dos Eucaliptos in Porto Alegre,Q100069,['10000'],['10000'],hasCapacity
+King Abdullah Stadium in Amman,Q100070,['20000'],['20000'],hasCapacity
+Siliwangi Stadium in Bandung,Q100071,['25000'],['25000'],hasCapacity
+Balboa Stadium in California,Q100072,['15000'],['15000'],hasCapacity
+Changwon Stadium in Changwon,Q100073,['27085'],['27085'],hasCapacity
+Cadet Memorial Field in Connecticut,Q100074,['4500'],['4500'],hasCapacity
+DeGol Field in Pennsylvania,Q100075,['3450'],['3450'],hasCapacity
+Irwin Belk Track and Field Center/Transamerica Field in North Carolina,Q100076,['4000'],['4000'],hasCapacity
+Qingdao Tiantai Stadium in Qingdao,Q100077,['20525'],['20525'],hasCapacity
+Murdock Stadium in California,Q100078,['12127'],['12127'],hasCapacity
+Yankee Stadium in The Bronx,Q100079,['49642'],['49642'],hasCapacity
+HoHoKam Stadium in Arizona,Q100080,['12623'],['12623'],hasCapacity
+Estádio Álvaro Maranhão in Amazonas,Q100081,['1500'],['1500'],hasCapacity
+Stewart Stadium in Utah,Q100082,['17312'],['17312'],hasCapacity
+Allegiant Stadium in Clark County,Q100083,['65000'],['65000'],hasCapacity
+Sheikh Fazlul Haque Mani Stadium in Gopalganj District,Q100084,['5000'],['5000'],hasCapacity
+Western Stadium in Phnom Penh,Q100085,['1000'],['1000'],hasCapacity
+Tengzhou Olympic Center Stadium in Tengzhou,Q100086,['30000'],['30000'],hasCapacity
+Sultan Qaboos Sports Complex in Muscat,Q100087,['34000'],['34000'],hasCapacity
+Bearcat Stadium in Missouri,Q100088,['6500'],['6500'],hasCapacity
+Jerry Richardson Stadium in North Carolina,Q100089,['15314'],['15314'],hasCapacity
+Galena Park ISD Stadium in Texas,Q100090,['10300'],['10300'],hasCapacity
+D.H.A Football Stadium in Karachi,Q100091,['2000'],['2000'],hasCapacity
+Ogle Stadium in Alabama,Q100092,['9000'],['9000'],hasCapacity
+League Stadium in Indiana,Q100093,['2783'],['2783'],hasCapacity
+Broadmeadow Basketball Stadium in New South Wales,Q100094,['2000'],['2000'],hasCapacity
+Vivaldão in Amazonas,Q100095,['46000'],['46000'],hasCapacity
+Robertson Stadium in Houston,Q100096,['32000'],['32000'],hasCapacity
+Nebraska Field in Nebraska,Q100097,['16000'],['16000'],hasCapacity
+Herndon Stadium in Georgia,Q100098,['15011'],['15011'],hasCapacity
+Estádio Ismael Benigno in Manaus,Q100099,['16000'],['16000'],hasCapacity
+Nobel Prize in Physiology or Medicine,Q80061,"['Max Theiler', 'Feodor Felix Konrad Lynen', 'Ivan Pavlov', 'Alexander Fleming', 'Robert Koch', 'Gertrude B. Elion', 'Konrad Emil Bloch', 'Karl von Frisch', 'Günter Blobel', 'Martin Rodbell', 'Hans Spemann', 'Ernst Chain', 'Otto Fritz Meyerhof', 'Albrecht Kossel', 'Paul Ehrlich', 'Gerhard Domagk', 'Hans Krebs', 'William P. Murphy', 'Shinya Yamanaka', 'John Gurdon', 'Carl Ferdinand Cori', 'Konrad Lorenz', 'Julius Wagner-Jauregg', 'Robert Bárány', 'Harald zur Hausen', 'Otto Heinrich Warburg', 'Emil von Behring', 'Max Delbrück', 'Fritz Albert Lipmann', 'Bert Sakmann', 'Otto Loewi', 'Christiane Nüsslein-Volhard', 'Georges J. F. Köhler', 'Werner Forssmann', 'Erwin Neher', 'Henry Hallett Dale', 'Earl Wilbur Sutherland', 'Jr.', 'Thomas C. Südhof', 'Karl Landsteiner', 'James D. Watson', 'Hermann Joseph Muller', 'James Black', 'Susumu Tonegawa', 'Daniel Carleton Gajdusek', 'Hamilton Smith', 'Robert W. Holley', 'Robert F. Furchgott', 'Renato Dulbecco', 'Edwin G. Krebs', 'Edmond H. Fischer', 'Marshall Warren Nirenberg', 'Julius Axelrod', 'Edward Calvin Kendall', 'Paul Lauterbur', 'Rosalyn Sussman Yalow', 'Har Gobind Khorana', 'Christiaan Eijkman', 'Andrew Huxley', 'Jack Szostak', 'Bruce Beutler', 'Robert Edwards', 'Jules Hoffmann', 'Ralph Steinman', 'Baruch Samuel Blumberg', 'Luc Montagnier', 'Françoise Barré-Sinoussi', 'Ronald Ross', 'Francis Crick', 'Daniel Bovet', 'Werner Arber', 'Tadeusz Reichstein', 'Emil Theodor Kocher', 'Paul Hermann Müller', 'Walter Rudolf Hess', 'Rolf M. Zinkernagel', 'Richard Axel', 'Jules Bordet', 'Martin Evans', 'Robin Warren', 'Salvador Luria', 'Craig Mello', 'Gerty Cori', 'Andrew Fire', 'Barry Marshall', 'Barbara McClintock', 'Linda B. Buck', 'André Lwoff', 'Allan McLeod Cormack', 'Paul Nurse', 'George Emil Palade', 'Ragnar Granit', 'François Jacob', 'Joshua Lederberg', 'Mario Capecchi', 'Oliver Smithies', 'Johannes Fibiger', 'Charles Scott Sherrington', 'Peter Medawar', 'Charles Richet', 'George Minot', 'Roger Guillemin', 'Peter Mansfield', 'Howard Temin', 'Joseph Erlanger', 'George Beadle', 'Georg von Békésy', 'Philip Showalter Hench', 'Bernardo Houssay', 'Ulf von Euler', 'Edward Tatum', 'Frederick Hopkins', 'Charles Nicolle', 'Severo Ochoa', 'Albert Claude', 'Sydney Brenner', 'Baruj Benacerraf', 'Christian de Duve', 'David Baltimore', 'John James Rickard Macleod', 'Selman Abraham Waksman', 'Roger Sperry', 'Stanley Cohen', 'Edward Adelbert Doisy', 'Jacques Monod', 'Edgar Douglas Adrian', 'Andrew Schally', 'Howard Florey', 'Hugo Theorell', 'Corneille Heymans', 'Niko Tinbergen', 'Stanley B. Prusiner', 'Archibald Hill', 'Charles Brenton Huggins', 'Eric Kandel', 'César Milstein', 'August Krogh', 'Jean Dausset', 'Santiago Ramón y Cajal', 'Camillo Golgi', 'Thomas Hunt Morgan', 'Élie Metchnikoff', 'Svante Pääbo', 'Allvar Gullstrand', 'Frank Macfarlane Burnet', 'Alan Lloyd Hodgkin', 'Henrik Dam', 'Joseph Murray', 'Charles Louis Alphonse Laveran', 'Willem Einthoven', 'Maurice Wilkins', 'Rita Levi-Montalcini', 'Alexis Carrel', 'Niels Ryberg Finsen', 'Albert Szent-Györgyi', 'Frederick Banting', 'Herbert Spencer Gasser', 'George Whipple', 'John Eccles', 'António Egas Moniz', 'Godfrey Hounsfield', 'Edward B. Lewis', 'John Sulston', 'Torsten Nils Wiesel', 'Joseph L. Goldstein', 'Gerald Edelman', 'André Frédéric Cournand', 'Alfred Hershey', 'Tim Hunt', 'Paul Greengard', 'John Vane', 'Louis Ignarro', 'Richard Roberts', 'Peter C. Doherty', 'Frederick Chapman Robbins', 'Niels Kaj Jerne', 'Haldan Keffer Hartline', 'Thomas Huckle Weller', 'E. Donnall Thomas', 'George H. Hitchings', 'Eric F. Wieschaus', 'Arvid Carlsson', 'Francis Peyton Rous', 'Arthur Kornberg', 'George Davis Snell', 'H. Robert Horvitz', 'David H. Hubel', 'Lee Hartwell', 'George Wald', 'Daniel Nathans', 'Rodney Robert Porter', 'Sune Bergström', 'Harold E. Varmus', 'Michael Stuart Brown', 'Bengt I. Samuelsson', 'Ferid Murad', 'Alfred G. Gilman', 'J. Michael Bishop', 'Phillip Sharp', 'John Franklin Enders', 'Dickinson W. Richards', 'Tu Youyou', 'James Rothman', 'Randy Schekman', 'David Julius', 'Michael Rosbash', 'Gregg L. Semenza', 'Jeffrey C. Hall', ""John O'Keefe"", 'William G. Kaelin', 'Michael W. Young', 'Michael Houghton', 'Peter J. Ratcliffe', 'Tasuku Honjo', 'Edvard Moser', 'Harvey J. Alter', 'James P. Allison', 'May-Britt Moser', 'Ōsumi Yoshinori', 'William C. Campbell', 'Satoshi Ōmura', 'Charles M. Rice', 'Ardem Patapoutian', 'Drew Weissman', 'Katalin Karikó', 'Bernard Katz', 'Elizabeth Blackburn', 'Carol Greider']","['Q46928', 'Q44597', 'Q42985', 'Q37064', 'Q37193', 'Q35703', 'Q35698', 'Q60060', 'Q60108', 'Q60031', 'Q57568', 'Q58054', 'Q57132', 'Q57128', 'Q57089', 'Q57192', 'Q57191', 'Q80323', 'Q80917', 'Q81218', 'Q78501', 'Q78496', 'Q78479', 'Q78478', 'Q75847', 'Q76464', 'Q76425', 'Q76807', 'Q77104', 'Q77081', 'Q77173', 'Q77174', 'Q77160', 'Q77152', 'Q77126', 'Q72194', 'Q68118', 'Q97270', 'Q84405', 'Q83333', 'Q83598', 'Q110974', 'Q108602', 'Q108576', 'Q108896', 'Q108891', 'Q108880', 'Q109553', 'Q109731', 'Q109726', 'Q110060', 'Q110106', 'Q110101', 'Q106547', 'Q107402', 'Q107462', 'Q107609', 'Q104607', 'Q104600', 'Q104592', 'Q104913', 'Q105605', 'Q105494', 'Q105830', 'Q103598', 'Q103844', 'Q102034', 'Q123280', 'Q115448', 'Q115495', 'Q115490', 'Q115478', 'Q115475', 'Q115470', 'Q116064', 'Q211940', 'Q211787', 'Q207719', 'Q208670', 'Q205667', 'Q206455', 'Q204733', 'Q202152', 'Q202136', 'Q199654', 'Q200136', 'Q223309', 'Q223542', 'Q219716', 'Q219718', 'Q217722', 'Q218311', 'Q218823', 'Q215574', 'Q216318', 'Q216324', 'Q213504', 'Q214209', 'Q214851', 'Q245000', 'Q242169', 'Q243601', 'Q243536', 'Q243532', 'Q238739', 'Q238716', 'Q235651', 'Q237160', 'Q237142', 'Q237499', 'Q233976', 'Q233965', 'Q233957', 'Q233943', 'Q234463', 'Q234701', 'Q234590', 'Q234949', 'Q232024', 'Q232308', 'Q232305', 'Q232299', 'Q230612', 'Q231402', 'Q231292', 'Q141147', 'Q137106', 'Q156480', 'Q156482', 'Q153890', 'Q155380', 'Q155375', 'Q155371', 'Q155529', 'Q155525', 'Q152187', 'Q152760', 'Q150526', 'Q150630', 'Q177681', 'Q172254', 'Q170342', 'Q192651', 'Q193550', 'Q193650', 'Q190501', 'Q192282', 'Q189006', 'Q189488', 'Q184659', 'Q185007', 'Q185777', 'Q182964', 'Q180468', 'Q180350', 'Q273201', 'Q273238', 'Q273223', 'Q273219', 'Q273769', 'Q274123', 'Q271532', 'Q271421', 'Q271424', 'Q271766', 'Q271757', 'Q271703', 'Q309977', 'Q309979', 'Q309971', 'Q309820', 'Q309816', 'Q309814', 'Q309885', 'Q309876', 'Q309879', 'Q310131', 'Q310485', 'Q310487', 'Q301438', 'Q298045', 'Q298707', 'Q295678', 'Q295666', 'Q295659', 'Q295644', 'Q295869', 'Q295724', 'Q295706', 'Q295700', 'Q295696', 'Q295691', 'Q295684', 'Q295768', 'Q295999', 'Q296423', 'Q311358', 'Q312977', 'Q312961', 'Q312963', 'Q462843', 'Q444270', 'Q740638', 'Q1174906', 'Q1297741', 'Q1545025', 'Q1686435', 'Q1701279', 'Q1603351', 'Q1929672', 'Q1927895', 'Q2075967', 'Q2395341', 'Q5341373', 'Q5677307', 'Q6140731', 'Q6796222', 'Q8056214', 'Q21061212', 'Q21061207', 'Q22669757', 'Q60322501', 'Q88608402', 'Q88608397', 'Q4517', 'Q26321', 'Q26322']",awardWonBy
+Premier League Player of the Season,Q1188692,"['Frank Lampard', 'Thierry Henry', 'Ruud van Nistelrooy', 'Patrick Vieira', 'Mohamed Salah', 'Peter Schmeichel', 'Wayne Rooney', 'Cristiano Ronaldo', 'Luis Suárez']","['Q41533', 'Q45901', 'Q45626', 'Q46347', 'Q1354960', 'Q182314', 'Q266613', 'Q11571', 'Q26517']",awardWonBy
+FAI Gold Air Medal,Q11198862,"['Hugo Eckener', 'Jean Batten', 'Joseph A. Walker', 'Vladimir Kokkinaki', 'Brian Jones', 'Andrei Tupolev', 'Igor Sikorsky', 'Sabiha Gökçen', 'Steve Fossett', 'Frank Whittle', 'Jimmy Doolittle', 'Bertrand Piccard', 'Juan de la Cierva', 'Aleksandr Fedotov', 'Alexandr Yakovlev', 'José Luis Aresti Aguirre', 'Jan Mikula', 'Charles Lindbergh']","['Q61666', 'Q53541', 'Q708395', 'Q982083', 'Q163023', 'Q219734', 'Q212446', 'Q459104', 'Q311786', 'Q312547', 'Q366547', 'Q366255', 'Q354646', 'Q348399', 'Q334665', 'Q5941119', 'Q22137105', 'Q1618']",awardWonBy
+Fulbright Prize,Q6565314,"['Desmond Tutu', 'Václav Havel', 'Médecins Sans Frontières', 'Luis Enrique Sam Colop', 'Hans Blix', 'Melinda Gates', 'Herbert Bloch', 'Franz Vranitzky', 'Colin Powell', 'Mary Robinson', 'Fernando Henrique Cardoso', 'Ramiro Llona', 'Esmeralda Thornhill', 'John B. Irwin', 'Kyle Forinash', 'Kathryn VanSpanckeren', 'Stephan Brigidi', 'Yi-Chun Tricia Lin', 'Bernard Eskil Swedlund', 'Corazon Aquino', 'Kofi Annan', 'Bill Clinton', 'Patricio Aylwin', 'Nelson Mandela', 'Bill Gates', 'Martti Ahtisaari', 'Jimmy Carter']","['Q43033', 'Q36233', 'Q49330', 'Q6700517', 'Q297275', 'Q463877', 'Q77631', 'Q158123', 'Q150851', 'Q188214', 'Q230578', 'Q28057704', 'Q111222506', 'Q111028460', 'Q122074202', 'Q123010123', 'Q123706901', 'Q123261966', 'Q123334784', 'Q1480', 'Q1254', 'Q1124', 'Q335', 'Q8023', 'Q5284', 'Q29230', 'Q23685']",awardWonBy
+Ballon d'Or,Q166177,"['Lothar Matthäus', 'Ronaldinho', 'Gerd Müller', 'Andriy Shevchenko', 'Matthias Sammer', 'Lev Yashin', 'George Best', 'Alfredo Di Stéfano', 'Pavel Nedvěd', 'Bobby Charlton', 'George Weah', 'Ruud Gullit', 'Paolo Rossi', 'Oleh Blokhin', 'Hristo Stoichkov', 'Karl-Heinz Rummenigge', 'Kevin Keegan', 'Allan Simonsen', 'Eusébio', 'Gianni Rivera', 'Denis Law', 'Flórián Albert', 'Stanley Matthews', 'Omar Sívori', 'Josef Masopust', 'Fabio Cannavaro', 'Raymond Kopa', 'Michael Owen', 'Roberto Baggio', 'Luís Figo', 'Marco van Basten', 'Luka Modrić', 'Rivaldo', 'Matías Fernandez', 'Igor Belanov', 'Kaká', 'Ronaldo', 'Lionel Messi', 'Zinedine Zidane', 'Karim Benzema', 'Franz Beckenbauer', 'Michel Platini', 'Cristiano Ronaldo', 'Jean-Pierre Papin', 'Johan Cruyff']","['Q36386', 'Q39444', 'Q43744', 'Q41244', 'Q57183', 'Q167828', 'Q164521', 'Q164546', 'Q171295', 'Q171583', 'Q173139', 'Q173972', 'Q178628', 'Q186691', 'Q187125', 'Q152871', 'Q152832', 'Q153463', 'Q162043', 'Q230046', 'Q233565', 'Q201534', 'Q216140', 'Q220700', 'Q223158', 'Q102027', 'Q123118', 'Q128829', 'Q67964', 'Q483145', 'Q483629', 'Q483837', 'Q483577', 'Q310657', 'Q311410', 'Q531814', 'Q529207', 'Q615', 'Q1835', 'Q1912', 'Q4457', 'Q4261', 'Q11571', 'Q13494', 'Q17163']",awardWonBy
+Nobel Prize in Physics,Q38104,"['Klaus von Klitzing', 'Herbert Kroemer', 'Ernst Ruska', 'Alfred Kastler', 'Theodor W. Hänsch', 'Horst Ludwig Störmer', 'Hans Georg Dehmelt', 'Willard Boyle', 'Wolfgang Pauli', 'Reinhard Genzel', 'Pieter Zeeman', 'Victor Francis Hess', 'Anton Zeilinger', 'Donald Arthur Glaser', 'James Chadwick', 'Pavel Cherenkov', 'Walther Bothe', 'Wolfgang Ketterle', 'George E. Smith', 'Gerd Binnig', 'J. Hans D. Jensen', 'Georg Bednorz', 'Ferenc Krausz', 'Louis de Broglie', 'John Strutt', '3rd Baron Rayleigh', 'Alexander Prokhorov', 'Nikolay Basov', 'Leon Cooper', 'Aage Bohr', 'Andre Geim', 'Adam Riess', 'Konstantin Novoselov', 'Vitaly Ginzburg', 'John C. Mather', 'Simon van der Meer', 'Saul Perlmutter', 'Martin Lewis Perl', 'Norman Foster Ramsey', 'Sheldon Glashow', 'Ben Roy Mottelson', 'Hugh David Politzer', 'Frank Wilczek', 'Serge Haroche', 'Klaus Hasselmann', 'Karl Alexander Müller', 'Albert A. Michelson', 'Arthur Holly Compton', 'Robert Hofstadter', 'Robert A. Millikan', 'Michel Mayor', 'Didier Queloz', 'Charles Édouard Guillaume', 'Heinrich Rohrer', 'Felix Bloch', 'William Lawrence Bragg', 'Johannes Diderik van der Waals', 'Lev Landau', 'Gabriel Lippmann', 'Clinton Davisson', 'George Paget Thomson', 'William Henry Bragg', 'Jean Perrin', 'Albert Fert', 'Georges Charpak', 'Jack Steinberger', 'John Robert Schrieffer', 'Edward Victor Appleton', 'François Englert', 'Subrahmanyan Chandrasekhar', 'Charles Glover Barkla', 'Gustaf Dalén', 'Charles Thomson Rees Wilson', 'William Shockley', 'Hans Bethe', 'Dennis Gabor', 'Eugene Wigner', 'Hideki Yukawapai', 'Louis Néel', 'Masatoshi Koshiba', 'Igor Tamm', 'Russell Alan Hulse', 'Carl David Anderson', 'Owen Willans Richardson', 'Ernest Lawrence', 'Robert Wilson', 'Manne Siegbahn', 'Isidor Isaac Rabi', 'C. F. Powell', 'Steven Weinberg', 'George F. Smoot', 'Leo Esaki', 'Luis Walter Alvarez', 'Percy Williams Bridgman', 'Steven Chu', 'Emilio G. Segrè', 'Arno Allan Penzias', 'Murray Gell-Mann', 'Pyotr Kapitsa', 'Raymond Davis Jr.', 'Polykarp Kusch', 'Sin-Itiro Tomonaga', 'Charles Hard Townes', 'Patrick Blackett', ""Gerard 't Hooft"", 'Walter Houser Brattain', 'Jerome Isaac Friedman', 'Yoichiro Nambu', 'Alexei Abrikosov', 'Frits Zernike', 'Willis Lamb', 'Riccardo Giacconi', 'Julian Schwinger', 'Pierre-Gilles de Gennes', 'Carlo Rubbia', 'Chen-ning Yang', 'Brian David Josephson', 'Jack Kilby', 'Ernest Walton', 'Tsung-Dao Lee', 'Owen Chamberlain', 'Zhores Alferov', 'Edward Mills Purcell', 'John Hasbrouck Van Vleck', 'Roger Penrose', 'Kai Siegbahn', 'Samuel C. C. Ting', 'Anthony James Leggett', 'Robert Coleman Richardson', 'Ilya Frank', 'Ivar Giaever', 'Bertram Brockhouse', 'Leon M. Lederman', 'Joseph Hooton Taylor', 'James Cronin', 'Kenneth G. Wilson', 'Nevill Francis Mott', 'Melvin Schwartz', 'Robert B. Laughlin', 'Nicolaas Bloembergen', 'Antony Hewish', 'Frederick Reines', 'Peter Higgs', 'Burton Richter', 'Claude Cohen-Tannoudji', 'Henry Way Kendall', 'Arthur Leonard Schawlow', 'James Rainwater', 'Philip W. Anderson', 'Martin Ryle', 'William Daniel Phillips', 'David Lee', 'Daniel C. Tsui', 'Toshihide Maskawa', 'Makoto Kobayashi', 'Martinus J. G. Veltman', 'Richard E. Taylor', 'Brian Schmidt', 'Clifford Shull', 'Eric Allin Cornell', 'Val Logsdon Fitch', 'Douglas Osheroff', 'John L. Hall', 'Carl Wieman', 'Kip S. Thorne', 'Alain Aspect', 'Andrea M. Ghez', 'Gérard Mourou', ""Anne L'Huillier"", 'Sheldon Cooper', 'Arthur B. McDonald', 'Arthur Ashkin', 'David J. Thouless', 'Jim Peebles', 'Shuji Nakamura', 'Duncan Haldane', 'Giorgio Parisi', 'John Clauser', 'Isamu Akasaki', 'Michael Kosterlitz', 'Rainer Weiss', 'Syukuro Manabe', 'Hiroshi Amano', 'Takaaki Kajita', 'Barry C. Barish', 'Donna Strickland', 'Pierre Agostini', 'Marie Curie', 'Niels Bohr', 'John Bardeen', 'Albert Einstein', 'Enrico Fermi', 'Erwin Schrödinger', 'Max Planck', 'Charles K. Kao', 'Abdus Salam', 'Pierre Curie', 'David Gross', 'Werner Heisenberg', 'Richard Feynman', 'Guglielmo Marconi', 'Wilhelm Röntgen', 'William Alfred Fowler', 'J. J. Thomson', 'Paul Dirac', 'Henri Becquerel', 'Hendrik Lorentz', 'Rudolf Mössbauer', 'Hannes Alfvén', 'Otto Stern', 'Ferdinand Braun', 'James Franck', 'Max von Laue', 'Wilhelm Wien', 'Gustav Ludwig Hertz', 'Philipp Lenard', 'Wolfgang Paul', 'Maria Goeppert Mayer', 'Johannes Stark', 'Peter Grünberg', 'John Cockcroft', 'Heike Kamerlingh Onnes', 'Roy J. Glauber', 'Max Born', 'Chandrasekhara Venkata Raman', 'David J. Wineland']","['Q71024', 'Q71016', 'Q71022', 'Q71023', 'Q71013', 'Q71015', 'Q70532', 'Q73058', 'Q65989', 'Q65807', 'Q79000', 'Q78520', 'Q78610', 'Q80905', 'Q80884', 'Q76970', 'Q76474', 'Q76462', 'Q76373', 'Q76766', 'Q76797', 'Q76687', 'Q86970', 'Q83331', 'Q83297', 'Q83552', 'Q83557', 'Q82563', 'Q103854', 'Q104104', 'Q106454', 'Q106494', 'Q104668', 'Q104651', 'Q104779', 'Q106949', 'Q107416', 'Q107419', 'Q107420', 'Q107423', 'Q107407', 'Q107450', 'Q109588', 'Q109370', 'Q122298', 'Q127234', 'Q127944', 'Q130113', 'Q130975', 'Q123975', 'Q124013', 'Q123026', 'Q123029', 'Q123022', 'Q131729', 'Q131721', 'Q133267', 'Q133232', 'Q133222', 'Q133846', 'Q133747', 'Q134085', 'Q153219', 'Q153178', 'Q153210', 'Q153201', 'Q153194', 'Q151746', 'Q148109', 'Q160522', 'Q160518', 'Q162900', 'Q163415', 'Q155794', 'Q155786', 'Q155790', 'Q155777', 'Q155781', 'Q155773', 'Q155759', 'Q156286', 'Q169366', 'Q169330', 'Q169577', 'Q171034', 'Q170741', 'Q165969', 'Q178103', 'Q179282', 'Q179572', 'Q179852', 'Q178344', 'Q172118', 'Q172466', 'Q173028', 'Q172877', 'Q172840', 'Q172844', 'Q175519', 'Q184571', 'Q184563', 'Q184566', 'Q184499', 'Q184592', 'Q184577', 'Q187822', 'Q188120', 'Q188128', 'Q188293', 'Q186497', 'Q186481', 'Q186465', 'Q187224', 'Q187199', 'Q181369', 'Q181363', 'Q182031', 'Q183631', 'Q183679', 'Q183655', 'Q183279', 'Q183270', 'Q193655', 'Q193803', 'Q192712', 'Q192715', 'Q192718', 'Q192708', 'Q192703', 'Q192688', 'Q192689', 'Q192695', 'Q192685', 'Q193496', 'Q193503', 'Q189485', 'Q189741', 'Q189997', 'Q189987', 'Q189990', 'Q191922', 'Q192112', 'Q192106', 'Q190697', 'Q190495', 'Q190503', 'Q190745', 'Q190770', 'Q190766', 'Q190756', 'Q201853', 'Q202138', 'Q202168', 'Q202164', 'Q202149', 'Q201470', 'Q201452', 'Q201506', 'Q205954', 'Q206499', 'Q206405', 'Q206390', 'Q206379', 'Q323320', 'Q364997', 'Q493956', 'Q556543', 'Q565544', 'Q629583', 'Q710597', 'Q708472', 'Q726394', 'Q728331', 'Q730065', 'Q1002250', 'Q1235614', 'Q1365270', 'Q1673706', 'Q1700920', 'Q2128461', 'Q3675789', 'Q11443689', 'Q11538917', 'Q15900993', 'Q56855591', 'Q57020342', 'Q7186', 'Q7085', 'Q949', 'Q937', 'Q8753', 'Q9130', 'Q9021', 'Q16389', 'Q28189', 'Q37463', 'Q40262', 'Q40904', 'Q39246', 'Q36488', 'Q35149', 'Q46120', 'Q47285', 'Q47480', 'Q41269', 'Q41688', 'Q44286', 'Q54945', 'Q57072', 'Q57077', 'Q57066', 'Q57067', 'Q57068', 'Q57070', 'Q57063', 'Q57227', 'Q57100', 'Q57092', 'Q57120', 'Q62897', 'Q62891', 'Q64188', 'Q58978', 'Q60429', 'Q61045']",awardWonBy
+Time Person of the Year,Q207826,"['Nikita Khrushchev', 'Mark Zuckerberg', 'Rudy Giuliani', 'Wallis Simpson (Marge Simpson)', 'William Shockley', 'Newt Gingrich', 'Henry Kissinger', 'Melinda Gates', 'Andrew Grove', 'Pope Francis', 'James A. Van Allen', 'Jeff Bezos', 'Elon Musk', 'You', 'Owen D. Young', 'Bono', 'Jamal Khashoggi', 'Addie L. Wyatt', 'Volodymyr Zelenskyy', 'Tatiana Felgenhauer', 'Lane Rasberry', 'MeToo movement', 'Susan J. Fowler', 'Tarana Burke', 'Greta Thunberg', 'Silence Breakers', 'Edward Lisovskii', 'Dwight D. Eisenhower', 'Elizabeth II', 'John F. Kennedy', 'Richard Nixon', 'Willy Brandt', 'John Paul II', 'Mahatma Gandhi', 'Joseph Stalin', 'Angela Merkel', 'Adolf Hitler', 'Charles Lindbergh', 'Corazon Aquino', 'Martin Luther King Jr.', 'Franklin Delano Roosevelt', 'Vladimir Putin', 'Barack Obama', 'Chiang Kai-shek', 'Donald Trump']","['Q35314', 'Q36215', 'Q212648', 'Q209417', 'Q163415', 'Q182788', 'Q66107', 'Q463877', 'Q432929', 'Q450675', 'Q271963', 'Q312556', 'Q317521', 'Q637907', 'Q944509', 'Q834621', 'Q1262052', 'Q2824146', 'Q3874799', 'Q4482488', 'Q26202725', 'Q42133786', 'Q42975347', 'Q43177774', 'Q56434717', 'Q65551212', 'Q114877222', 'Q115236110', 'Q9916', 'Q9682', 'Q9696', 'Q9588', 'Q2514', 'Q989', 'Q1001', 'Q855', 'Q567', 'Q352', 'Q1618', 'Q1480', 'Q8027', 'Q8007', 'Q7747', 'Q76', 'Q16574', 'Q22686']",awardWonBy
+UEFA Team of the Year,Q1146578,"['Mesut Özil', 'Paolo Maldini', 'Luís Figo', 'Gerard Piqué', 'Cristiano Ronaldo', 'David Beckham', 'Franck Ribéry', 'Inter Milan', 'Lionel Messi']","['Q83488', 'Q483027', 'Q483145', 'Q17507', 'Q11571', 'Q10520', 'Q1918', 'Q631', 'Q615']",awardWonBy
+Fields medal,Q28835,"['June Huh', 'Maryna Viazovska', 'James Maynard', 'Hugo Duminil-Copin', 'Caucher Birkar', 'Alessio Figalli', 'Maryam Mirzakhani', 'Manjul Bhargava', 'Artur Ávila', 'Maxim Kontsevich', 'Vladimir Drinfeld', 'Vaughan Jones', 'Daniel Quillen', 'Vladimir Voevodsky', 'Jean-Christophe Yoccoz', 'Michael Freedman', 'Enrico Bombieri', 'Richard Borcherds', 'Curtis T. McMullen', 'Klaus Roth', 'Sergei Novikov', 'Efim Zelmanov', 'Cédric Villani', 'Elon Lindenstrauss', 'David Mumford', 'Pierre-Louis Lions', 'Simon Donaldson', 'Pierre Deligne', 'William Thurston', 'Lars Hörmander', 'Stanislav Smirnov', 'Kunihiko Kodaira', 'Shing-Tung Yau', 'Grigory Margulis', 'Andrei Okounkov', 'Stephen Smale', 'Laurent Lafforgue', 'Jesse Douglas', 'John G. Thompson', 'Alain Connes', 'Alan Baker', 'Terence Tao', 'Charles Fefferman', 'Jean Bourgain', 'Timothy Gowers', 'John Milnor', 'Ngô Bảo Châu', 'Paul Cohen', 'Atle Selberg', 'Lars Ahlfors', 'Laurent Schwartz', 'Jean-Pierre Serre', 'Shigefumi Mori', 'Michael Atiyah', 'Edward Witten', 'Heisuke Hironaka', 'Akshay Venkatesh', 'Wendelin Werner', 'René Thom', 'Grigori Perelman', 'Peter Scholze', 'Martin Hairer', 'Gerd Faltings', 'Alexander Grothendieck']","['Q32538394', 'Q23721911', 'Q19655060', 'Q15461028', 'Q4121788', 'Q2641168', 'Q1771279', 'Q1398727', 'Q715043', 'Q369588', 'Q369561', 'Q369638', 'Q369658', 'Q369662', 'Q369600', 'Q333494', 'Q333538', 'Q334010', 'Q333959', 'Q333968', 'Q333975', 'Q334054', 'Q334065', 'Q334069', 'Q334021', 'Q334030', 'Q334039', 'Q334045', 'Q333927', 'Q333941', 'Q333948', 'Q333918', 'Q334760', 'Q325705', 'Q315425', 'Q315394', 'Q315396', 'Q315404', 'Q313168', 'Q313590', 'Q310769', 'Q295981', 'Q284129', 'Q260802', 'Q220402', 'Q215765', 'Q216350', 'Q216809', 'Q211041', 'Q211642', 'Q212081', 'Q212063', 'Q206215', 'Q208356', 'Q201513', 'Q183373', 'Q176588', 'Q164369', 'Q164428', 'Q117346', 'Q98034', 'Q89332', 'Q77137', 'Q77141']",awardWonBy
+Order of the Golden Fleece,Q2028166,"['Islam Karimov', 'Nursultan Nazarbayev', 'Toomas Hendrik Ilves', 'Patriarch Bartholomew of Constantinople', 'Rasul Gamzatov', 'Recep Tayyip Erdoğan', 'Hans van Baalen', 'Viktor Yushchenko', 'Strobe Talbott', 'Allahshukur Pashazadeh', 'Jean-Yves Le Drian', 'Serzh Sargsyan', 'James Wolfensohn', 'Alexander Vershbow', 'Kirsan Ilyumzhinov', 'Donald Rumsfeld', 'Juan Antonio Samaranch', 'Heydar Aliyev', 'Süleyman Demirel', 'Javier Solana', 'Vladimer Chachibaia', 'James Appathurai', 'Yue Bin', 'Lech Kończak', 'José Manuel Durão Barroso', 'Elizabeth II', 'Hillary Clinton', 'Gerhard Schröder']","['Q57558', 'Q57394', 'Q57289', 'Q44501', 'Q36878', 'Q39259', 'Q1583347', 'Q1459699', 'Q1287886', 'Q958026', 'Q559040', 'Q612803', 'Q504387', 'Q484005', 'Q313594', 'Q184650', 'Q171166', 'Q157451', 'Q151729', 'Q154855', 'Q3650691', 'Q3524011', 'Q65715257', 'Q124394179', 'Q15849', 'Q9682', 'Q6294', 'Q2530']",awardWonBy
+Farfetch,Q18712957,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+McColl's,Q16997477,['London Stock Exchange'],['Q171240'],companyTradesAtStockExchange
+Bangladesh Cement Manufacturers Association,Q4855279,[],[],companyTradesAtStockExchange
+West Japan Railway Company,Q502125,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+Chubu Electric Power,Q1091203,"['Tokyo Stock Exchange', 'Nagoya Stock Exchange']","['Q217475', 'Q1188840']",companyTradesAtStockExchange
+Totoku Electric,Q11525019,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+Tama Home,Q17212505,"['Tokyo Stock Exchange', 'Fukuoka Stock Exchange']","['Q217475', 'Q5507703']",companyTradesAtStockExchange
+"Morningstar, Inc.",Q1389504,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Energen,Q5376825,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+McBride plc,Q16997468,['London Stock Exchange'],['Q171240'],companyTradesAtStockExchange
+Maxilivres,Q3302434,[],[],companyTradesAtStockExchange
+Bank Panin Dubai Syariah,Q96100564,['Indonesia Stock Exchange'],['Q1661737'],companyTradesAtStockExchange
+Welling Holding Limited,Q10943784,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+BNP Paribas,Q499707,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+TOOL Werkzeugba,Q54946455,[],[],companyTradesAtStockExchange
+Linde Group,Q682759,"['Nasdaq', 'New York Stock Exchange', 'Frankfurt Stock Exchange']","['Q13677', 'Q151139', 'Q82059']",companyTradesAtStockExchange
+JGC Holdings Corporation,Q5216057,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+Falabella,Q5135229,['Santiago Stock Exchange'],['Q891561'],companyTradesAtStockExchange
+Knipex,Q427800,[],[],companyTradesAtStockExchange
+MONEY3 CORPORATION LIMITED,Q109627057,['Australian Stock Exchange'],['Q732670'],companyTradesAtStockExchange
+Amlin,Q4747070,['London Stock Exchange'],['Q171240'],companyTradesAtStockExchange
+Novadios,Q7064390,[],[],companyTradesAtStockExchange
+"Tapestry, Inc.",Q56273715,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Sodexo,Q1475554,['OTC Markets Group'],['Q1930860'],companyTradesAtStockExchange
+PACCO,Q24358175,[],[],companyTradesAtStockExchange
+Nicca Chemical,Q11510293,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+Idaho Botanical Garden,Q5987322,[],[],companyTradesAtStockExchange
+ING Group,Q645708,"['New York Stock Exchange', 'Italian Stock Exchange']","['Q13677', 'Q936563']",companyTradesAtStockExchange
+"Amundi CR - Fond Investičních Příležitostí 7/2020, Amundi Czech Republic, investiční společnost, a.s",Q67810843,[],[],companyTradesAtStockExchange
+Orange County Choppers,Q659230,[],[],companyTradesAtStockExchange
+Link Motion Inc,Q6955096,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Medion Impex,Q102286683,[],[],companyTradesAtStockExchange
+Kobe Steel,Q1730802,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+General Mills,Q629998,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Betsson,Q2723182,['OTC Markets Group'],['Q1930860'],companyTradesAtStockExchange
+Warner Bros. Home Entertainment,Q1188361,[],[],companyTradesAtStockExchange
+Enbridge,Q1339966,"['Toronto Stock Exchange', 'New York Stock Exchange']","['Q13677', 'Q818723']",companyTradesAtStockExchange
+Altium Limited,Q1066620,['Australian Stock Exchange'],['Q732670'],companyTradesAtStockExchange
+VIRIBUS UNITIS - investiční poradenství,Q67806722,[],[],companyTradesAtStockExchange
+DOMITRUCK,Q67809281,[],[],companyTradesAtStockExchange
+JYP Entertainment,Q483238,['Korea Exchange (Kosdaq)'],['Q491503'],companyTradesAtStockExchange
+Iran Electronics Industries,Q6066785,[],[],companyTradesAtStockExchange
+Rautaruukki,Q2095671,[],[],companyTradesAtStockExchange
+JCDecaux,Q74877,['OTC Markets Group'],['Q1930860'],companyTradesAtStockExchange
+Global Telecom Holding,Q921716,['Egyptian Exchange'],['Q2509254'],companyTradesAtStockExchange
+Arista Networks,Q2861324,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+PC Transport Systems,Q85866685,[],[],companyTradesAtStockExchange
+Halliburton,Q656165,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Spartan Motors,Q7573905,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Coldwater Creek,Q5142575,[],[],companyTradesAtStockExchange
+Koninklijke Philips NV,Q170416,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Sun Hing Printing,Q10852448,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+Korean Air,Q213147,['Korean Stock Exchange'],['Q495372'],companyTradesAtStockExchange
+H World Group Limited,Q15926208,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Battery Expert,Q67811555,[],[],companyTradesAtStockExchange
+BIOSTER,Q8242619,[],[],companyTradesAtStockExchange
+IDP Education,Q5970065,['Australian Stock Exchange'],['Q732670'],companyTradesAtStockExchange
+Pandora A/S,Q2241604,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Stanley Black & Decker,Q706094,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Société Générale,Q270363,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+ams OSRAM AG,Q477875,['Swiss Stock Exchange'],['Q661834'],companyTradesAtStockExchange
+Foxconn,Q463094,"['Hong Kong Exchanges And Clearing Ltd', 'Taiwan Stock Exchange', 'London Stock Exchange']","['Q496672', 'Q171240', 'Q548621']",companyTradesAtStockExchange
+Moravské kovárny,Q18006568,[],[],companyTradesAtStockExchange
+Target Corporation,Q1046951,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Sumitomo Chemical,Q137803,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+MOSAD LOGISTIK,Q67805814,[],[],companyTradesAtStockExchange
+"Nautilus, Inc.",Q3337196,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Union Bank Of Israel Ltd.,Q2903265,['Tel Aviv Stock Exchange'],['Q1507974'],companyTradesAtStockExchange
+Manuli Hydraulics Europe,Q54943810,[],[],companyTradesAtStockExchange
+Friedman's Inc.,Q5503691,[],[],companyTradesAtStockExchange
+Scholastic Corporation,Q1155729,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Dynamics Research Corporation,Q5319050,['Nasdaq'],['Q82059'],companyTradesAtStockExchange
+Erie Railroad,Q1353770,[],[],companyTradesAtStockExchange
+Vrtáky,Q54983711,[],[],companyTradesAtStockExchange
+Deutsche Ost-Afrika Linie,Q1203644,[],[],companyTradesAtStockExchange
+Shield On Service,Q96100646,['Indonesia Stock Exchange'],['Q1661737'],companyTradesAtStockExchange
+D-Wave Systems,Q5203294,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Slatinné lázně Třeboň,Q58503045,[],[],companyTradesAtStockExchange
+Ablex Publishing,Q4033172,[],[],companyTradesAtStockExchange
+Intact Financial,Q3152974,['Toronto Stock Exchange'],['Q818723'],companyTradesAtStockExchange
+KENOBI,Q54941818,[],[],companyTradesAtStockExchange
+UTair Aviation,Q1065835,['Moscow Exchange'],['Q2632892'],companyTradesAtStockExchange
+Grand Baoxin Auto Group Limited,Q10956056,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+Magna International,Q697311,"['Toronto Stock Exchange', 'New York Stock Exchange']","['Q13677', 'Q818723']",companyTradesAtStockExchange
+State Printing Company,Q220874,['Budapest Stock Exchange'],['Q851259'],companyTradesAtStockExchange
+MindMed,Q106615428,"['Nasdaq', 'Cboe Canada']","['Q39052382', 'Q82059']",companyTradesAtStockExchange
+Wan Kei Group,Q20743393,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+Burwill Holdings Limited,Q10956086,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+cahoot,Q5017452,[],[],companyTradesAtStockExchange
+Camping World,Q5028383,['New York Stock Exchange'],['Q13677'],companyTradesAtStockExchange
+Sinar Mas Land,Q7521800,['Singapore Stock Exchange'],['Q1515558'],companyTradesAtStockExchange
+Tokmanni,Q13423470,['Nasdaq Helsinki Ltd'],['Q581755'],companyTradesAtStockExchange
+GD Power Development Company,Q1485050,['Shanghai Stock Exchange'],['Q739514'],companyTradesAtStockExchange
+CIMIC Group,Q1815063,['Australian Stock Exchange'],['Q732670'],companyTradesAtStockExchange
+"Palm, Inc.",Q854437,[],[],companyTradesAtStockExchange
+Prysmian Group,Q1964784,['OTC Markets Group'],['Q1930860'],companyTradesAtStockExchange
+CHINNEY ALLIANCE GROUP,Q17233490,['Hong Kong Exchanges And Clearing Ltd'],['Q496672'],companyTradesAtStockExchange
+All Nippon Airways,Q204284,"['Tokyo Stock Exchange', 'London Stock Exchange']","['Q217475', 'Q171240']",companyTradesAtStockExchange
+Daihatsu,Q27511,['Tokyo Stock Exchange'],['Q217475'],companyTradesAtStockExchange
+Adtranz,Q378767,[],[],companyTradesAtStockExchange
+Sierra Leone,Q1044,"['Guinea', 'Liberia']","['Q1006', 'Q1014']",countryLandBordersCountry
+New Zealand,Q664,[],[],countryLandBordersCountry
+Germany,Q183,"['Austria', 'Belgium', 'Czech Republic', 'Denmark', 'France', 'Luxembourg', 'Netherlands', 'Poland', 'Switzerland']","['Q40', 'Q31', 'Q213', 'Q35', 'Q142', 'Q32', 'Q55', 'Q36', 'Q39']",countryLandBordersCountry
+Niger,Q1032,"['Algeria', 'Benin', 'Burkina Faso', 'Chad', 'Libya', 'Mali', 'Nigeria']","['Q262', 'Q962', 'Q965', 'Q657', 'Q1016', 'Q912', 'Q1033']",countryLandBordersCountry
+Liberia,Q1014,"['Guinea', ""Côte d'Ivoire"", 'Sierra Leone']","['Q1006', 'Q1008', 'Q1044']",countryLandBordersCountry
+Mauritius,Q1027,[],[],countryLandBordersCountry
+Nicaragua,Q811,"['Costa Rica', 'Honduras']","['Q800', 'Q783']",countryLandBordersCountry
+Kazakhstan,Q232,"[""People's Republic of China"", 'Kyrgyzstan', 'Russia', 'Turkmenistan', 'Uzbekistan']","['Q148', 'Q813', 'Q159', 'Q874', 'Q265']",countryLandBordersCountry
+Botswana,Q963,"['Namibia', 'South Africa', 'Zambia', 'Zimbabwe']","['Q1030', 'Q258', 'Q953', 'Q954']",countryLandBordersCountry
+Cyprus,Q229,['United Kingdom'],['Q145'],countryLandBordersCountry
+Togo,Q945,"['Benin', 'Burkina Faso', 'Ghana']","['Q962', 'Q965', 'Q117']",countryLandBordersCountry
+Paraguay,Q733,"['Argentina', 'Bolivia', 'Brazil']","['Q414', 'Q750', 'Q155']",countryLandBordersCountry
+Argentina,Q414,"['Bolivia', 'Brazil', 'Chile', 'Paraguay', 'Uruguay']","['Q750', 'Q155', 'Q298', 'Q733', 'Q77']",countryLandBordersCountry
+Ireland,Q27,['United Kingdom'],['Q145'],countryLandBordersCountry
+Belize,Q242,"['Guatemala', 'Mexico']","['Q774', 'Q96']",countryLandBordersCountry
+Georgia,Q230,"['Armenia', 'Azerbaijan', 'Russia', 'Turkey']","['Q399', 'Q227', 'Q159', 'Q43']",countryLandBordersCountry
+Ukraine,Q212,"['Belarus', 'Hungary', 'Moldova', 'Poland', 'Romania', 'Russia', 'Slovakia']","['Q184', 'Q28', 'Q217', 'Q36', 'Q218', 'Q159', 'Q214']",countryLandBordersCountry
+Moldova,Q217,"['Romania', 'Ukraine']","['Q218', 'Q212']",countryLandBordersCountry
+Saudi Arabia,Q851,"['Bahrain', 'Iraq', 'Jordan', 'Kuwait', 'Oman', 'Qatar', 'United Arab Emirates', 'Yemen']","['Q398', 'Q796', 'Q810', 'Q817', 'Q842', 'Q846', 'Q878', 'Q805']",countryLandBordersCountry
+Western Sahara,Q6250,"['Algeria', 'Mauritania', 'Morocco']","['Q262', 'Q1025', 'Q1028']",countryLandBordersCountry
+Tajikistan,Q863,"['Afghanistan', ""People's Republic of China"", 'Kyrgyzstan', 'Uzbekistan']","['Q889', 'Q148', 'Q813', 'Q265']",countryLandBordersCountry
+Vatican City,Q237,['Italy'],['Q38'],countryLandBordersCountry
+Haiti,Q790,['Dominican Republic'],['Q786'],countryLandBordersCountry
+Zimbabwe,Q954,"['Botswana', 'Mozambique', 'South Africa', 'Zambia']","['Q963', 'Q1029', 'Q258', 'Q953']",countryLandBordersCountry
+Madeira,Q26253,[],[],countryLandBordersCountry
+Kiribati,Q710,[],[],countryLandBordersCountry
+Macau,Q14773,"[""People's Republic of China""]",['Q148'],countryLandBordersCountry
+Suriname,Q730,"['Brazil', 'France', 'Guyana']","['Q155', 'Q142', 'Q734']",countryLandBordersCountry
+United Arab Emirates,Q878,"['Oman', 'Saudi Arabia']","['Q842', 'Q851']",countryLandBordersCountry
+Monaco,Q235,['France'],['Q142'],countryLandBordersCountry
+Lebanon,Q822,"['Israel', 'Syria']","['Q801', 'Q858']",countryLandBordersCountry
+Canada,Q16,"['United States', 'Denmark']","['Q30', 'Q35']",countryLandBordersCountry
+Guinea,Q1006,"[""Côte d'Ivoire"", 'Guinea-Bissau', 'Liberia', 'Mali', 'Senegal', 'Sierra Leone']","['Q1008', 'Q1007', 'Q1014', 'Q912', 'Q1041', 'Q1044']",countryLandBordersCountry
+Spain,Q29,"['Andorra', 'France', 'Portugal', 'Morocco']","['Q228', 'Q142', 'Q45', 'Q1028']",countryLandBordersCountry
+Fiji,Q712,[],[],countryLandBordersCountry
+Belgium,Q31,"['France', 'Germany', 'Luxembourg', 'Netherlands']","['Q142', 'Q183', 'Q32', 'Q55']",countryLandBordersCountry
+Finland,Q33,"['Norway', 'Sweden', 'Russia']","['Q20', 'Q34', 'Q159']",countryLandBordersCountry
+Uzbekistan,Q265,"['Afghanistan', 'Kazakhstan', 'Kyrgyzstan', 'Tajikistan', 'Turkmenistan']","['Q889', 'Q232', 'Q813', 'Q863', 'Q874']",countryLandBordersCountry
+Vietnam,Q881,"['Cambodia', ""People's Republic of China"", 'Laos']","['Q424', 'Q148', 'Q819']",countryLandBordersCountry
+São Tomé and Príncipe,Q1039,[],[],countryLandBordersCountry
+Ecuador,Q736,"['Colombia', 'Peru']","['Q739', 'Q419']",countryLandBordersCountry
+Myanmar,Q836,"['Bangladesh', ""People's Republic of China"", 'India', 'Laos', 'Thailand']","['Q902', 'Q148', 'Q668', 'Q819', 'Q869']",countryLandBordersCountry
+Afghanistan,Q889,"[""People's Republic of China"", 'Iran', 'Pakistan', 'Tajikistan', 'Turkmenistan', 'Uzbekistan']","['Q148', 'Q794', 'Q843', 'Q863', 'Q874', 'Q265']",countryLandBordersCountry
+Israel,Q801,"['Egypt', 'State of Palestine', 'Jordan', 'Lebanon', 'Syria']","['Q79', 'Q219060', 'Q810', 'Q822', 'Q858']",countryLandBordersCountry
+Republic of the Congo,Q971,"['Angola', 'Cameroon', 'Central African Republic', 'Democratic Republic of the Congo', 'Gabon']","['Q916', 'Q1009', 'Q929', 'Q974', 'Q1000']",countryLandBordersCountry
+Chile,Q298,"['Argentina', 'Bolivia', 'Peru']","['Q414', 'Q750', 'Q419']",countryLandBordersCountry
+Luxembourg,Q32,"['Belgium', 'France', 'Germany']","['Q31', 'Q142', 'Q183']",countryLandBordersCountry
+Uganda,Q1036,"['Democratic Republic of the Congo', 'Kenya', 'Rwanda', 'South Sudan', 'Tanzania']","['Q974', 'Q114', 'Q1037', 'Q958', 'Q924']",countryLandBordersCountry
+Indonesia,Q252,"['East Timor', 'Malaysia', 'Papua New Guinea']","['Q574', 'Q833', 'Q691']",countryLandBordersCountry
+Saint Vincent and the Grenadines,Q757,[],[],countryLandBordersCountry
+Tanzania,Q924,"['Burundi', 'Democratic Republic of the Congo', 'Kenya', 'Malawi', 'Mozambique', 'Rwanda', 'Uganda', 'Zambia']","['Q967', 'Q974', 'Q114', 'Q1020', 'Q1029', 'Q1037', 'Q1036', 'Q953']",countryLandBordersCountry
+Bolivia,Q750,"['Argentina', 'Brazil', 'Chile', 'Paraguay', 'Peru']","['Q414', 'Q155', 'Q298', 'Q733', 'Q419']",countryLandBordersCountry
+Estonia,Q191,"['Latvia', 'Russia']","['Q211', 'Q159']",countryLandBordersCountry
+Syria,Q858,"['Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']","['Q796', 'Q801', 'Q810', 'Q822', 'Q43']",countryLandBordersCountry
+Kenya,Q114,"['Ethiopia', 'Somalia', 'South Sudan', 'Tanzania', 'Uganda']","['Q115', 'Q1045', 'Q958', 'Q924', 'Q1036']",countryLandBordersCountry
+Liechtenstein,Q347,"['Austria', 'Switzerland']","['Q40', 'Q39']",countryLandBordersCountry
+Cuba,Q241,[],[],countryLandBordersCountry
+Costa Rica,Q800,"['Nicaragua', 'Panama']","['Q811', 'Q804']",countryLandBordersCountry
+Grenada,Q769,[],[],countryLandBordersCountry
+Colombia,Q739,"['Brazil', 'Ecuador', 'Panama', 'Peru', 'Venezuela']","['Q155', 'Q736', 'Q804', 'Q419', 'Q717']",countryLandBordersCountry
+Netherlands,Q55,"['Belgium', 'Germany']","['Q31', 'Q183']",countryLandBordersCountry
+Qatar,Q846,['Saudi Arabia'],['Q851'],countryLandBordersCountry
+Seychelles,Q1042,[],[],countryLandBordersCountry
+Singapore,Q334,[],[],countryLandBordersCountry
+Nigeria,Q1033,"['Benin', 'Cameroon', 'Chad', 'Niger']","['Q962', 'Q1009', 'Q657', 'Q1032']",countryLandBordersCountry
+Denmark,Q35,['Germany'],['Q183'],countryLandBordersCountry
+Pakistan,Q843,"['Afghanistan', 'India', 'Iran', ""People's Republic of China""]","['Q889', 'Q668', 'Q794', 'Q148']",countryLandBordersCountry
+Dave Keon,Q326190,[],[],personHasCityOfDeath
+Agneta Pleijel,Q3352161,[],[],personHasCityOfDeath
+Vladimir Magomedovich Semyonov,Q2040455,[],[],personHasCityOfDeath
+Nobuyoshi Araki,Q450696,[],[],personHasCityOfDeath
+Egbert Mulder,Q987791,['Groningen'],['Q749'],personHasCityOfDeath
+Uwe Timm,Q61629,[],[],personHasCityOfDeath
+Henk van Kerkwijk,Q1820555,[],[],personHasCityOfDeath
+Alessandra Melucco Vaccaro,Q2832728,['Rome'],['Q220'],personHasCityOfDeath
+Jūrō Kara,Q1717995,[],[],personHasCityOfDeath
+Godfrey Hewitt,Q5576455,['Cambridge'],['Q350'],personHasCityOfDeath
+Edward Soja,Q1283228,['Los Angeles'],['Q65'],personHasCityOfDeath
+Paul Wehrle,Q97484,[],[],personHasCityOfDeath
+Sergiusz Plewa,Q9335483,['Białystok'],['Q761'],personHasCityOfDeath
+Valentina Sharykina,Q4520771,[],[],personHasCityOfDeath
+Bulat Minzhilkiev,Q4294178,['Saint Petersburg'],['Q656'],personHasCityOfDeath
+Elsa Peretti,Q3051731,['Sant Martí Vell'],['Q13458'],personHasCityOfDeath
+Vicente Fernández,Q119069,['Guadalajara'],['Q9022'],personHasCityOfDeath
+Milan Lasica,Q1934261,['Bratislava'],['Q1780'],personHasCityOfDeath
+Nury Halmammedov,Q7070322,['Ashgabat'],['Q23438'],personHasCityOfDeath
+Mirjam Pressler,Q106834,['Landshut'],['Q3974'],personHasCityOfDeath
+Yefim Basin,Q4078989,[],[],personHasCityOfDeath
+Berit Mørdre Lammedal,Q265702,[],[],personHasCityOfDeath
+Zbigniew Romaszewski,Q3845564,['Warsaw'],['Q270'],personHasCityOfDeath
+François Piquet,Q46744937,['Lyon'],['Q456'],personHasCityOfDeath
+Ricky Nelson,Q303207,['Dallas'],['Q16557'],personHasCityOfDeath
+Thomas V. Draude,Q7794644,[],[],personHasCityOfDeath
+Rosa Posada,Q6112228,['Madrid'],['Q2807'],personHasCityOfDeath
+Joan Solà Cortassa,Q3179620,['Barcelona'],['Q1492'],personHasCityOfDeath
+Solomon Burke,Q49888,['Haarlemmermeer'],['Q9924'],personHasCityOfDeath
+Lasse Åberg,Q714141,[],[],personHasCityOfDeath
+Gunther Kress,Q5619463,['Rome'],['Q220'],personHasCityOfDeath
+Joachim Gauck,Q2538,[],[],personHasCityOfDeath
+Josep Maria Benet i Jornet,Q1008502,['Lleida'],['Q15090'],personHasCityOfDeath
+Michael Rose,Q3026030,[],[],personHasCityOfDeath
+Peter Eisenberg,Q2074674,[],[],personHasCityOfDeath
+Zsuzsa Vathy,Q227390,['Budapest'],['Q1781'],personHasCityOfDeath
+Karl Lennartz,Q1732135,['Bad Oeynhausen'],['Q6858'],personHasCityOfDeath
+Aleksandr Neumyvakin,Q4317999,[],[],personHasCityOfDeath
+Ina May Gaskin,Q543011,[],[],personHasCityOfDeath
+Jochen Borchert,Q70066,[],[],personHasCityOfDeath
+Endre Bojtár,Q833716,[],[],personHasCityOfDeath
+Jan Turski,Q11719303,['Warsaw'],['Q270'],personHasCityOfDeath
+René Koering,Q3426441,[],[],personHasCityOfDeath
+Isao Harimoto,Q482958,[],[],personHasCityOfDeath
+Thomas R. P. Mielke,Q125228,['Berlin'],['Q64'],personHasCityOfDeath
+Adel Emam,Q353690,[],[],personHasCityOfDeath
+Herbert Joos,Q1498204,['Baden-Baden'],['Q4100'],personHasCityOfDeath
+Stan Mikita,Q440237,['Chicago'],['Q1297'],personHasCityOfDeath
+Mike Hailwood,Q173147,['Warwickshire'],['Q23140'],personHasCityOfDeath
+Antoni Krauze,Q12114364,['Warsaw'],['Q270'],personHasCityOfDeath
+George R. Christmas,Q5543616,[],[],personHasCityOfDeath
+Konrad Rufus Müller,Q1782281,[],[],personHasCityOfDeath
+Marianna Rumjantseva,Q4400090,[],[],personHasCityOfDeath
+Basina Kloos,Q810175,[],[],personHasCityOfDeath
+Lyudmila Shishova,Q1642904,['Nizhny Novgorod'],['Q891'],personHasCityOfDeath
+Angelo Rinaldi,Q1238522,[],[],personHasCityOfDeath
+George Akerlof,Q222541,[],[],personHasCityOfDeath
+Valery Grigorievich Sushko,Q77420754,['Moscow'],['Q649'],personHasCityOfDeath
+Frederick Brownell,Q16727703,['Pretoria'],['Q3926'],personHasCityOfDeath
+Valeriu Pantazi,Q12743069,['Bucharest'],['Q19660'],personHasCityOfDeath
+Ciro de Quadros,Q382511,"['Washington', 'D.C.']",['Q61'],personHasCityOfDeath
+Māris Čaklais,Q924116,['Riga'],['Q1773'],personHasCityOfDeath
+Heinz Rudolf Sonntag,Q1600843,['Caracas'],['Q1533'],personHasCityOfDeath
+Edmund White,Q729117,[],[],personHasCityOfDeath
+Armin Maiwald,Q99855,[],[],personHasCityOfDeath
+Thomas M. Disch,Q708581,['New York City'],['Q60'],personHasCityOfDeath
+Pavel Šrut,Q7155818,['Prague'],['Q1085'],personHasCityOfDeath
+Aleksandr Proshkin,Q4382330,[],[],personHasCityOfDeath
+Dietmar Hopp,Q62543,[],[],personHasCityOfDeath
+Tamás Raj,Q1245477,['Budapest'],['Q1781'],personHasCityOfDeath
+Harald Gerlach,Q1584494,['Leimen'],['Q23007'],personHasCityOfDeath
+Hans-Olaf Henkel,Q105564,[],[],personHasCityOfDeath
+Klaus-Dieter Lehmann,Q115407,[],[],personHasCityOfDeath
+Vladimir Yurzinov,Q2006019,[],[],personHasCityOfDeath
+Punathil Kunjabdulla,Q7259915,['Kozhikode'],['Q28729'],personHasCityOfDeath
+Veerappa Moily,Q3519659,[],[],personHasCityOfDeath
+Luis Valdez,Q360140,[],[],personHasCityOfDeath
+Joan Nestle,Q545322,[],[],personHasCityOfDeath
+Dieter Mertens,Q1222479,['Freiburg im Breisgau'],['Q2833'],personHasCityOfDeath
+Jeroen Brouwers,Q944323,['Maastricht'],['Q1309'],personHasCityOfDeath
+Veikko Kankkonen,Q14724,[],[],personHasCityOfDeath
+José Luis Gómez,Q961311,[],[],personHasCityOfDeath
+Vasil Tatsiy,Q4452881,[],[],personHasCityOfDeath
+Alan Kay,Q92742,[],[],personHasCityOfDeath
+"Kumar Bhattacharyya, Baron Bhattacharyya",Q1791962,['Birmingham'],['Q2256'],personHasCityOfDeath
+Frans Molenaar,Q2329607,['Amsterdam'],['Q727'],personHasCityOfDeath
+Bikash Bhattacharjee,Q4907316,['Kolkata'],['Q1348'],personHasCityOfDeath
+Orlando Patterson,Q7103155,[],[],personHasCityOfDeath
+Vasyl Ivánovich Popadyuk,Q23658384,['Kyiv'],['Q1899'],personHasCityOfDeath
+Carlos Goberna,Q16941796,['Montevideo'],['Q1335'],personHasCityOfDeath
+Gennady Vasilyev,Q4104584,['Ulan-Ude'],['Q6816'],personHasCityOfDeath
+Hariton Pushwagner,Q1772760,['Oslo'],['Q585'],personHasCityOfDeath
+Vyacheslav Starshinov,Q1338117,[],[],personHasCityOfDeath
+Gary R. Pfingston,Q5525796,['San Antonio'],['Q975'],personHasCityOfDeath
+Al Pacino,Q41163,[],[],personHasCityOfDeath
+Erna Brodber,Q1822135,[],[],personHasCityOfDeath
+Yuri Koptev,Q2895091,[],[],personHasCityOfDeath
+Liudmila Belavenets,Q3821648,['Moscow'],['Q649'],personHasCityOfDeath
+Igor Chkola,Q12172012,['Kyiv'],['Q1899'],personHasCityOfDeath
+Peter Fonda,Q210148,['Los Angeles'],['Q65'],personHasCityOfDeath
